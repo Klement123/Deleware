@@ -1,0 +1,2 @@
+EcoSHEDS_Measurements_Coordinates.csv filter=lfs diff=lfs merge=lfs -text
+EcoSHEDS_Observed_Temperatures.gpkg filter=lfs diff=lfs merge=lfs -text
