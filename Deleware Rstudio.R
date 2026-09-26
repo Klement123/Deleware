@@ -31,3 +31,35 @@ edges <- lines_to_lsn(
   use_parallel=TRUE,
   no_cores=num.cores)
 
+clean_flowlines <- st_read("Deleware QGIS/cleaned_flowlines.gpkg")
+clean_flowlines <- st_cast(clean_flowlines, "LINESTRING")
+lsn_path2 <- "LSN_Deleware_CLEANED"
+
+edges_clean <- lines_to_lsn(
+  streams = clean_flowlines,
+  lsn_path = lsn_path2,
+  snap_tolerance = 0.0001,
+  check_topology = TRUE,
+  topo_tolerance = 0.01,
+  overwrite = TRUE,
+  verbose = TRUE,
+  remove_ZM = FALSE,
+  use_parallel = TRUE,
+  no_cores = num.cores
+)
+clean_flowlines <- st_read("Deleware QGIS/cleaned_flowlines_V2.gpkg")
+clean_flowlines <- st_cast(clean_flowlines, "LINESTRING")
+lsn_path2 <- "LSN_Deleware_CLEANED_V2"
+
+edges_clean <- lines_to_lsn(
+  streams = clean_flowlines,
+  lsn_path = lsn_path2,
+  snap_tolerance = 0.0001,
+  check_topology = TRUE,
+  topo_tolerance = 0.01,
+  overwrite = TRUE,
+  verbose = TRUE,
+  remove_ZM = FALSE,
+  use_parallel = TRUE,
+  no_cores = num.cores
+)
