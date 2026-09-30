@@ -1,0 +1,1042 @@
+﻿object_id,waterbody_name,date,location_type,site_code,latitude,longitude,basin,temperature,unit
+1671314,Beaver Brook,9/2/2009,river_mile,14-BEBR-8.2,41.57186,-74.91086,Delaware River Basin,18.29,celsius
+1671326,Beaver Brook,8/20/2019,river_mile,14-BEBR-8.2,41.57186,-74.91086,Delaware River Basin,24.4,celsius
+1671485,Unnamed Tributary to Beaver Brook,9/2/2009,river_mile,14-BEBR_T2-0.4,41.52305,-74.9331,Delaware River Basin,21.43,celsius
+1671597,Basher Kill,9/2/2009,river_mile,14-BSHR-3.7,41.4859,-74.57382,Delaware River Basin,18.36,celsius
+1671598,Basher Kill,9/22/2010,river_mile,14-BSHR-3.7,41.4859,-74.57382,Delaware River Basin,13.15,celsius
+1671605,Basher Kill,8/20/2019,river_mile,14-BSHR-3.7,41.4859,-74.57382,Delaware River Basin,20.6,celsius
+1671610,Basher Kill,9/1/1993,river_mile,14-BSHR-0.4,41.45361,-74.58944,Delaware River Basin,19,celsius
+1671617,Basher Kill,8/27/2024,river_mile,14-BSHR-3.7,41.4859,-74.57382,Delaware River Basin,19.6,celsius
+1671624,Basher Kill,8/17/1999,river_mile,14-BSHR-0.4,41.45361,-74.58944,Delaware River Basin,19.899,celsius
+1671626,Basher Kill,8/3/2004,river_mile,14-BSHR-0.4,41.45361,-74.58944,Delaware River Basin,22.5,celsius
+1672277,Bush Kill,9/2/2009,river_mile,14-BSKL-1.3,41.46797,-74.72916,Delaware River Basin,15.43,celsius
+1672328,Buck Brook,8/18/1999,river_mile,14-BUCB-0.6,41.81083,-74.99028,Delaware River Basin,18.8,celsius
+1672407,Beers Brook,8/21/2019,river_mile,14-BEEB-3.5,42.119651,-75.108847,Delaware River Basin,18,celsius
+1672426,Beaver Kill,7/14/1988,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,28,celsius
+1672431,Beaver Kill,7/29/1993,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,22.8,celsius
+1672432,Beaver Kill,8/31/1994,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,14.6,celsius
+1672433,Beaver Kill,8/18/1999,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,24.1,celsius
+1672434,Beaver Kill,8/4/2004,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,21.4,celsius
+1672435,Beaver Kill,9/7/2005,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,18,celsius
+1672436,Beaver Kill,9/2/2009,river_mile,14-BEAV-10.0,41.94639,-74.97972,Delaware River Basin,14.5,celsius
+1672769,Anawanna Brook,9/1/2009,river_mile,14-ANAW-0.4,41.65778,-74.66293,Delaware River Basin,17.88,celsius
+1672775,Anawanna Brook,8/20/2019,river_mile,14-ANAW-0.4,41.65778,-74.66293,Delaware River Basin,23.3,celsius
+1672793,Betty Brook,9/30/1999,river_mile,14-BETT-0.1,42.34361,-74.73306,Delaware River Basin,14.8,celsius
+1672801,Betty Brook,8/1/2019,river_mile,14-BETT-0.1,42.34361,-74.73306,Delaware River Basin,21.2,celsius
+1672807,Betty Brook,8/22/2019,river_mile,14-BETT-0.1,42.34361,-74.73306,Delaware River Basin,22.2,celsius
+1672818,Bush Kill,9/20/2000,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,18.5,celsius
+1672824,Bush Kill,8/5/2004,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,17,celsius
+1672826,Bush Kill,9/1/2009,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,13.3,celsius
+1672827,Bush Kill,9/9/2016,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,20.2,celsius
+1672829,Bush Kill,9/26/2017,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,15.7,celsius
+1672835,Bush Kill,10/25/2018,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,6.8,celsius
+1672840,Bush Kill,9/26/2019,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,14.8,celsius
+1672841,Bush Kill,9/23/2020,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,13.6,celsius
+1672842,Bagley Brook,8/19/1999,river_mile,14-BAGL-0.7,42.20167,-74.96917,Delaware River Basin,18.8,celsius
+1672843,Bush Kill,9/21/2021,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,13.3,celsius
+1672847,Bush Kill,9/28/2022,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,12.3,celsius
+1672865,Bush Kill,9/21/2023,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,11.3,celsius
+1672872,Bush Kill,9/27/2024,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,14.6,celsius
+1672878,Barnum Brook,8/3/2004,river_mile,14-BARN-0.7,41.62667,-74.63249,Delaware River Basin,22.7,celsius
+1672881,Bush Kill,9/26/2025,river_mile,14-BUSH-0.6,42.15111,-74.6011,Delaware River Basin,15.8,celsius
+1672887,Beaver Kill,7/28/1993,river_mile,14-BEAV-13.8,41.9565,-74.9349,Delaware River Basin,21.3,celsius
+1672890,Beaver Kill,8/5/2014,river_mile,14-BEAV-13.8,41.9565,-74.9349,Delaware River Basin,22,celsius
+1672909,Bush Kill,9/1/2009,river_mile,14-BUSH-2.9,42.1599,-74.55974,Delaware River Basin,12.8,celsius
+1672916,Beaver Kill,7/28/1993,river_mile,14-BEAV-15.6,41.93667,-74.92027,Delaware River Basin,24.1,celsius
+1672919,Beaver Kill,7/11/1996,river_mile,14-BEAV-15.6,41.93667,-74.92027,Delaware River Basin,15.9,celsius
+1672920,Beaver Kill,8/18/1999,river_mile,14-BEAV-15.6,41.93667,-74.92027,Delaware River Basin,21.5,celsius
+1672922,Basket Creek,8/18/1999,river_mile,14-BASK-0.3,41.84767,-75.11049,Delaware River Basin,20,celsius
+1672925,Basket Creek,8/4/2004,river_mile,14-BASK-0.3,41.84767,-75.11049,Delaware River Basin,17,celsius
+1672936,Beaverdam Creek,8/4/2004,river_mile,14-BVDM-0.1,41.7046,-75.06704,Delaware River Basin,19.8,celsius
+1672991,Big Hollow Brook,8/4/2004,river_mile,14-BHOL-0.1,42.06694,-75.41833,Delaware River Basin,19.6,celsius
+1672997,East Branch Basket Creek,8/18/1999,river_mile,14-BASK_E-0.7,41.8625,-75.08667,Delaware River Basin,17.8,celsius
+1673065,Big Hollow Brook,9/2/2009,river_mile,14-BHOL-1.8,42.08577,-75.43236,Delaware River Basin,17.399,celsius
+1673099,Calkins Creek,7/31/2019,river_mile,14-CALK-1.3,41.786306,-75.03552,Delaware River Basin,19.8,celsius
+1673158,Birch Ridge Brook,8/6/2014,river_mile,14-BIRC-0.8,41.731732,-74.923095,Delaware River Basin,17.899,celsius
+1673607,Beaver Kill,7/28/1993,river_mile,14-BEAV-18.5,41.96611,-74.8925,Delaware River Basin,25.4,celsius
+1673611,Beaver Kill,9/1/2009,river_mile,14-BEAV-18.5,41.96611,-74.8925,Delaware River Basin,17.6,celsius
+1673616,North Branch Basket Creek,8/21/2019,river_mile,14-BASK_N-1.7,41.881163,-75.091213,Delaware River Basin,18.2,celsius
+1673618,Beaver Kill,8/5/2014,river_mile,14-BEAV-18.5,41.96611,-74.8925,Delaware River Basin,22.8,celsius
+1673625,Beaver Kill,8/22/2019,river_mile,14-BEAV-18.5,41.96611,-74.8925,Delaware River Basin,18.6,celsius
+1673642,Beaver Kill,8/28/2024,river_mile,14-BEAV-18.5,41.96611,-74.8925,Delaware River Basin,19.9,celsius
+1673701,Beaver Kill,8/7/2014,river_mile,14-BEAV-22.2,41.978533,-74.846998,Delaware River Basin,15.9,celsius
+1673704,Biscuit Brook,7/1/1987,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,14,celsius
+1673707,Biscuit Brook,8/26/1987,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,11,celsius
+1673710,Biscuit Brook,7/21/2010,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,16.239,celsius
+1673713,Biscuit Brook,5/10/2011,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,7.21,celsius
+1673715,Biscuit Brook,8/1/2011,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,16.61,celsius
+1673717,Biscuit Brook,9/9/2016,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,16.5,celsius
+1673718,Biscuit Brook,9/26/2017,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,15.2,celsius
+1673722,Biscuit Brook,9/21/2018,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,13.7,celsius
+1673723,Beaver Kill,7/28/1993,river_mile,14-BEAV-23.0,41.9811,-74.8361,Delaware River Basin,23.6,celsius
+1673726,Biscuit Brook,9/26/2019,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,12.2,celsius
+1673727,Biscuit Brook,9/23/2020,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,9.7,celsius
+1673732,Biscuit Brook,9/21/2021,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,12.6,celsius
+1673753,Biscuit Brook,9/28/2022,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,10.6,celsius
+1673773,Beaver Kill,7/28/1993,river_mile,14-BEAV-26.7,42.00583,-74.78639,Delaware River Basin,23.3,celsius
+1673774,Beaver Kill,8/18/1999,river_mile,14-BEAV-26.7,42.00583,-74.78639,Delaware River Basin,20,celsius
+1673775,Beaver Kill,8/4/2004,river_mile,14-BEAV-26.7,42.00583,-74.78639,Delaware River Basin,19.8,celsius
+1673777,Biscuit Brook,9/21/2023,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,10.6,celsius
+1673779,Biscuit Brook,9/27/2024,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,12.5,celsius
+1673796,Biscuit Brook,9/26/2025,river_mile,14-BISC-0.7,41.99278,-74.50305,Delaware River Basin,14.3,celsius
+1673801,Beaver Kill,7/29/1993,river_mile,14-BEAV-3.2,41.98306,-75.075,Delaware River Basin,25.8,celsius
+1673866,Bush Kill,8/17/1999,river_mile,14-BKIL-0.1,41.50555,-74.64861,Delaware River Basin,19.1,celsius
+1673867,Bush Kill,8/3/2004,river_mile,14-BKIL-0.1,41.50555,-74.64861,Delaware River Basin,20.9,celsius
+1673884,Black Brook,8/17/1999,river_mile,14-BLAB-0.1,41.53139,-74.76417,Delaware River Basin,20.5,celsius
+1673902,Black Brook,9/2/2009,river_mile,14-BLAB-1.7,41.55053,-74.76079,Delaware River Basin,14.49,celsius
+1674200,Basset Brook,8/22/2019,river_mile,14-BASS-0.2,42.390211,-74.647502,Delaware River Basin,19.2,celsius
+1674219,Beaver Kill,8/21/2019,river_mile,14-BEAV-39.8,42.011547,-74.60543,Delaware River Basin,17.6,celsius
+1674247,Beaver Kill,7/29/1993,river_mile,14-BEAV-7.2,41.97222,-75.0175,Delaware River Basin,22.9,celsius
+1674267,Beaver Brook,8/18/1999,river_mile,14-BEBR-0.2,41.4825,-74.95028,Delaware River Basin,18.399,celsius
+1674271,Beaver Brook,8/3/2004,river_mile,14-BEBR-0.2,41.4825,-74.95028,Delaware River Basin,23.3,celsius
+1674429,Briscoe Lake Outlet,8/4/2004,river_mile,14-BRIS-2.0,41.77056,-74.90471,Delaware River Basin,24.1,celsius
+1674431,Briscoe Lake Outlet,8/21/2019,river_mile,14-BRIS-2.0,41.77056,-74.90471,Delaware River Basin,26.3,celsius
+1674573,Batavia Kill,8/29/2024,river_mile,14-BATK-0.3,42.181461,-74.59747,Delaware River Basin,17,celsius
+1674612,Batavia Kill,8/5/2004,river_mile,14-BATK-0.5,42.18167,-74.59333,Delaware River Basin,16.8,celsius
+1674620,Baxter Brook,8/19/1999,river_mile,14-BAXT-0.3,42.025,-75.115,Delaware River Basin,15.7,celsius
+1674684,Baxter Brook,8/4/2010,river_mile,14-BAXT-3.6,42.06929,-75.10797,Delaware River Basin,17.62,celsius
+1674687,Baxter Brook,10/27/2010,river_mile,14-BAXT-3.6,42.06929,-75.10797,Delaware River Basin,12.02,celsius
+1674695,Baxter Brook,5/10/2011,river_mile,14-BAXT-3.6,42.06929,-75.10797,Delaware River Basin,12.22,celsius
+1674698,Baxter Brook,8/3/2011,river_mile,14-BAXT-3.6,42.06929,-75.10797,Delaware River Basin,16.739,celsius
+1674738,Beaver Kill,8/18/1999,river_mile,14-BEAV-0.1,41.98917,-75.12917,Delaware River Basin,24.7,celsius
+1674741,Beaver Kill,9/20/2000,river_mile,14-BEAV-0.1,41.98917,-75.12917,Delaware River Basin,18.5,celsius
+1674744,Beaver Kill,8/4/2004,river_mile,14-BEAV-0.1,41.98917,-75.12917,Delaware River Basin,22.5,celsius
+1675147,East Branch Callicoon Creek,8/18/1999,river_mile,14-CALL_E-9.5,41.765023,-74.942465,Delaware River Basin,21.8,celsius
+1675154,East Branch Callicoon Creek,8/4/2004,river_mile,14-CALL_E-9.5,41.765023,-74.942465,Delaware River Basin,22.6,celsius
+1675161,East Branch Callicoon Creek,9/1/2009,river_mile,14-CALL_E-9.5,41.765023,-74.942465,Delaware River Basin,19.46,celsius
+1675170,East Branch Callicoon Creek,9/30/2014,river_mile,14-CALL_E-9.5,41.765023,-74.942465,Delaware River Basin,17.6,celsius
+1675519,Coulter Brook,8/5/2014,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,15.7,celsius
+1675542,Coulter Brook,4/13/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,19.8,celsius
+1675545,Coulter Brook,5/4/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,19.2,celsius
+1675548,Unnamed TributaryTo East Branch Of Callicoon Creek,7/31/2019,river_mile,14-CALL_E_T13a-0.1,41.780868,-74.931819,Delaware River Basin,19.1,celsius
+1675552,Coulter Brook,6/8/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,21.1,celsius
+1675562,Coulter Brook,7/27/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,26.4,celsius
+1675569,Coulter Brook,8/25/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,17.579,celsius
+1675574,Coulter Brook,10/19/2015,river_mile,14-COUL-0.1,42.257019,-74.771709,Delaware River Basin,20.6,celsius
+1676628,Callicoon Creek,9/1/1993,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,22.7,celsius
+1676634,Callicoon Creek,8/30/1994,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,19.7,celsius
+1676642,Callicoon Creek,8/18/1999,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,21.6,celsius
+1676650,Callicoon Creek,9/21/2000,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,16.7,celsius
+1676656,Callicoon Creek,8/4/2004,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,20.8,celsius
+1676664,Callicoon Creek,9/6/2005,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,20.8,celsius
+1676670,Callicoon Creek,9/1/2009,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,18.01,celsius
+1676674,Callicoon Creek,9/23/2010,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,15.63,celsius
+1676677,Callicoon Creek,8/6/2014,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,22.6,celsius
+1676694,Callicoon Creek,4/15/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,20.8,celsius
+1676700,Callicoon Creek,5/6/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,24,celsius
+1676705,Callicoon Creek,6/10/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,21.2,celsius
+1676708,Callicoon Creek,7/29/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,25.4,celsius
+1676714,Callicoon Creek,8/26/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,21.12,celsius
+1676716,Callicoon Creek,10/21/2015,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,19.7,celsius
+1676717,Callicoon Creek,8/21/2019,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,21.8,celsius
+1676724,Callicoon Creek,8/28/2024,river_mile,14-CALL-0.2,41.76444,-75.05556,Delaware River Basin,19.1,celsius
+1676799,Coulter Brook,7/5/2022,river_mile,14-COUL-0.9,42.250853,-74.759333,Delaware River Basin,15.3,celsius
+1676913,Darby Brook,9/21/2000,river_mile,14-DARB-0.1,41.93544,-74.91968,Delaware River Basin,14.7,celsius
+1677805,Delaware River,8/20/2019,river_mile,14-DELA-1.2,41.37222,-74.69722,Delaware River Basin,25.2,celsius
+1678031,North Branch Callicoon Creek,8/18/1999,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,17.6,celsius
+1678048,North Branch Callicoon Creek,8/4/2004,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,18.8,celsius
+1678062,North Branch Callicoon Creek,9/1/2009,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,16.739,celsius
+1678077,North Branch Callicoon Creek,9/30/2014,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,14,celsius
+1678109,North Branch Callicoon Creek,8/21/2019,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,21,celsius
+1678131,North Branch Callicoon Creek,8/28/2024,river_mile,14-CALL_N-0.6,41.767805,-75.028513,Delaware River Basin,17.9,celsius
+1678329,North Branch Callicoon Creek,8/6/2014,river_mile,14-CALL_N-4.0,41.803707,-74.99499,Delaware River Basin,17.899,celsius
+1678418,Callicoon Creek,6/30/1987,river_mile,14-CALL-1.7,41.760347,-75.03366,Delaware River Basin,21.5,celsius
+1678426,Callicoon Creek,9/1/2009,river_mile,14-CALL-1.7,41.760347,-75.03366,Delaware River Basin,18.829,celsius
+1678431,Callicoon Creek,8/6/2014,river_mile,14-CALL-1.7,41.760347,-75.03366,Delaware River Basin,22.7,celsius
+1678555,North Branch Callicoon Creek,8/18/1999,river_mile,14-CALL_N-4.7,41.804318,-74.98434,Delaware River Basin,19.399,celsius
+1678573,North Branch Callicoon Creek,9/30/2014,river_mile,14-CALL_N-4.7,41.804318,-74.98434,Delaware River Basin,13.8,celsius
+1678608,Delaware River,4/22/2008,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,14,celsius
+1678615,Delaware River,5/12/2008,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,12.95,celsius
+1678624,Delaware River,6/24/2008,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,21.87,celsius
+1678631,Delaware River,7/16/2008,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,23.09,celsius
+1678638,Delaware River,9/3/2008,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,21.65,celsius
+1678650,Delaware River,4/16/2015,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,22.5,celsius
+1678655,Delaware River,6/11/2015,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,22.6,celsius
+1678663,Delaware River,7/30/2015,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,22.4,celsius
+1678666,Cattail Brook,9/1/2009,river_mile,14-CATL-0.1,41.9003,-74.8318,Delaware River Basin,14.9,celsius
+1678670,Delaware River,10/22/2015,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,19.5,celsius
+1678680,Cattail Brook,8/7/2014,river_mile,14-CATL-0.1,41.9003,-74.8318,Delaware River Basin,15.8,celsius
+1678720,Campbell Brook,8/19/1999,river_mile,14-CBEL-0.3,42.045,-75.02194,Delaware River Basin,16.899,celsius
+1678759,Delaware River,4/14/2021,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,11.7,celsius
+1678765,Delaware River,6/16/2021,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,20.8,celsius
+1678773,Delaware River,8/17/2021,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,23.2,celsius
+1678782,Delaware River,10/21/2021,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,13.3,celsius
+1678806,Delaware River,4/14/2022,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,9.7,celsius
+1678811,Delaware River,8/16/2022,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,23.5,celsius
+1678822,Delaware River,8/16/2023,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,19.6,celsius
+1678824,Delaware River,10/19/2023,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,12.8,celsius
+1678832,Delaware River,4/24/2024,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,10.8,celsius
+1678844,Delaware River,6/13/2024,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,18.6,celsius
+1678849,Delaware River,8/22/2024,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,18.7,celsius
+1678852,Delaware River,10/24/2024,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,13.6,celsius
+1678864,Delaware River,4/22/2025,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,13,celsius
+1678871,Delaware River,6/18/2025,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,17.7,celsius
+1678892,Delaware River,8/18/2025,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,25.3,celsius
+1678897,Delaware River,10/15/2025,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,14.1,celsius
+1678903,Delaware River,4/21/2026,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,10.6,celsius
+1678913,Delaware River,6/9/2026,river_mile,14-DELA-1.3,41.37194,-74.69695,Delaware River Basin,22.4,celsius
+1679203,Cadosia Creek,8/31/1994,river_mile,14-CDOS-0.1,41.96444,-75.26334,Delaware River Basin,13.6,celsius
+1679207,Cadosia Creek,8/18/1999,river_mile,14-CDOS-0.1,41.96444,-75.26334,Delaware River Basin,20.6,celsius
+1679215,Cadosia Creek,8/4/2004,river_mile,14-CDOS-0.1,41.96444,-75.26334,Delaware River Basin,17.7,celsius
+1679260,Cadosia Creek,8/28/2024,river_mile,14-CDOS-0.1,41.96444,-75.26334,Delaware River Basin,17.7,celsius
+1679852,East Branch Callicoon Creek,8/18/1999,river_mile,14-CALL_E-0.2,41.75845,-75.0293,Delaware River Basin,21.3,celsius
+1679855,East Branch Callicoon Creek,8/4/2004,river_mile,14-CALL_E-0.2,41.75845,-75.0293,Delaware River Basin,23,celsius
+1679858,East Branch Callicoon Creek,9/1/2009,river_mile,14-CALL_E-0.2,41.75845,-75.0293,Delaware River Basin,18.7,celsius
+1679862,East Branch Callicoon Creek,8/21/2019,river_mile,14-CALL_E-0.2,41.75845,-75.0293,Delaware River Basin,24.4,celsius
+1679891,East Branch Callicoon Creek,8/28/2024,river_mile,14-CALL_E-0.2,41.75845,-75.0293,Delaware River Basin,20.3,celsius
+1680093,Cat Hollow,8/4/2010,river_mile,14-CHOL-0.4,42.06522,-74.94134,Delaware River Basin,17.41,celsius
+1680098,Cat Hollow,10/28/2010,river_mile,14-CHOL-0.4,42.06522,-74.94134,Delaware River Basin,10.14,celsius
+1680103,Cat Hollow,5/11/2011,river_mile,14-CHOL-0.4,42.06522,-74.94134,Delaware River Basin,10.79,celsius
+1680108,Cat Hollow,8/2/2011,river_mile,14-CHOL-0.4,42.06522,-74.94134,Delaware River Basin,18.399,celsius
+1680113,Cat Hollow,8/22/2019,river_mile,14-CHOL-0.4,42.06522,-74.94134,Delaware River Basin,16.5,celsius
+1680166,East Branch Callicoon Creek,8/21/2019,river_mile,14-CALL_E-0.4,41.756688,-75.027144,Delaware River Basin,23.2,celsius
+1680207,Chase Brook,8/5/2010,river_mile,14-CHSB-1.0,42.09418,-75.17786,Delaware River Basin,16.51,celsius
+1680212,Chase Brook,10/27/2010,river_mile,14-CHSB-1.0,42.09418,-75.17786,Delaware River Basin,11.26,celsius
+1680214,Chase Brook,5/10/2011,river_mile,14-CHSB-1.0,42.09418,-75.17786,Delaware River Basin,10.86,celsius
+1680217,Chase Brook,8/3/2011,river_mile,14-CHSB-1.0,42.09418,-75.17786,Delaware River Basin,15.18,celsius
+1680223,Chase Brook,8/5/2014,river_mile,14-CHSB-1.0,42.09418,-75.17786,Delaware River Basin,15.2,celsius
+1680237,East Branch Callicoon Creek,9/30/2014,river_mile,14-CALL_E-13.8,41.78908,-74.895092,Delaware River Basin,16.5,celsius
+1680254,East Branch Callicoon Creek,9/30/2014,river_mile,14-CALL_E-4.8,41.729052,-74.983332,Delaware River Basin,17.2,celsius
+1680276,Cold Spring Brook,8/19/1999,river_mile,14-COLD-0.1,42.0807,-75.4019,Delaware River Basin,18.6,celsius
+1680281,Cold Spring Brook,8/4/2004,river_mile,14-COLD-0.1,42.0807,-75.4019,Delaware River Basin,19.5,celsius
+1680299,Delaware River,8/15/1974,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,22,celsius
+1680306,Delaware River,9/18/1974,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,19,celsius
+1680309,Delaware River,6/10/1981,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,20,celsius
+1680313,Delaware River,7/15/1981,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,22,celsius
+1680317,Delaware River,8/19/1981,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,20,celsius
+1680320,Delaware River,9/23/1981,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,14.5,celsius
+1680321,Delaware River,9/2/2009,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,16.46,celsius
+1680322,Delaware River,8/21/2019,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,24.2,celsius
+1680336,Delaware River,8/27/2024,river_mile,14-DELA-31.2,41.55442,-75.02014,Delaware River Basin,21.7,celsius
+1680503,Delaware River,6/5/1974,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,21.2,celsius
+1680511,Fall Clove Stream,5/11/2011,river_mile,14-FCLV-0.1,42.1148,-74.8903,Delaware River Basin,10.46,celsius
+1680514,Delaware River,7/10/1974,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,28.5,celsius
+1680517,Fall Clove Stream,8/2/2011,river_mile,14-FCLV-0.1,42.1148,-74.8903,Delaware River Basin,20.23,celsius
+1680522,Delaware River,8/15/1974,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,24,celsius
+1680524,Delaware River,9/18/1974,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,19,celsius
+1680529,Delaware River,6/10/1981,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,19,celsius
+1680530,Delaware River,7/15/1981,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,22,celsius
+1680531,Delaware River,8/19/1981,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,18,celsius
+1680537,Delaware River,9/23/1981,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,14.5,celsius
+1680557,Fly Creek,8/19/1999,river_mile,14-FLYC-0.2,42.05028,-75.49639,Delaware River Basin,16.3,celsius
+1680562,Delaware River,7/14/1988,river_mile,14-DELA-36.5,41.60969,-75.06206,Delaware River Basin,25,celsius
+1680780,East Branch Cold Spring Brook,8/19/1999,river_mile,14-COLD_E-0.4,42.09861,-75.38834,Delaware River Basin,17.7,celsius
+1680789,East Branch Cold Spring Brook,8/4/2004,river_mile,14-COLD_E-0.4,42.09861,-75.38834,Delaware River Basin,19.2,celsius
+1680808,East Branch Cold Spring Brook,8/28/2024,river_mile,14-COLD_E-0.4,42.09861,-75.38834,Delaware River Basin,19.6,celsius
+1681038,East Branch Delaware River,6/5/1974,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,16.5,celsius
+1681046,East Branch Delaware River,8/14/1974,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,27,celsius
+1681053,East Branch Delaware River,9/17/1974,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,18.5,celsius
+1681060,East Branch Delaware River,6/9/1981,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,23,celsius
+1681064,East Branch Delaware River,7/14/1981,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,24,celsius
+1681071,East Branch Delaware River,8/18/1981,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,25,celsius
+1681073,East Branch Delaware River,9/22/1981,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,15,celsius
+1681079,East Branch Delaware River,5/26/1987,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,15.5,celsius
+1681081,East Branch Delaware River,6/30/1987,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,22,celsius
+1681084,East Branch Delaware River,8/3/1987,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,18.5,celsius
+1681086,East Branch Delaware River,9/8/1987,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,18.5,celsius
+1681095,East Branch Delaware River,9/2/1993,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,16.5,celsius
+1681104,East Branch Delaware River,8/31/1994,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,15.8,celsius
+1681113,East Branch Delaware River,8/18/1999,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,25.1,celsius
+1681119,East Branch Delaware River,9/21/2000,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,17.2,celsius
+1681123,East Branch Delaware River,9/6/2005,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,23.3,celsius
+1681124,East Branch Delaware River,9/2/2009,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,14.7,celsius
+1681130,East Branch Delaware River,8/7/2014,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,19.3,celsius
+1681133,East Branch Delaware River,8/26/2015,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,19.55,celsius
+1681143,East Branch Delaware River,8/28/2024,river_mile,14-EDEL-0.8,41.951092,-75.28133,Delaware River Basin,21,celsius
+1681262,Delaware River,6/5/1974,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,21.5,celsius
+1681265,Delaware River,7/10/1974,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,26,celsius
+1681272,Delaware River,8/15/1974,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,22.5,celsius
+1681279,Delaware River,9/18/1974,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,19,celsius
+1681281,Delaware River,6/9/1981,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,25,celsius
+1681283,Delaware River,8/18/1981,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,21.5,celsius
+1681303,Delaware River,9/22/1981,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,16,celsius
+1681307,Delaware River,9/6/2005,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,21.6,celsius
+1681310,Delaware River,9/1/2009,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,18.1,celsius
+1681315,Delaware River,9/23/2010,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,16.43,celsius
+1681324,Delaware River,8/6/2014,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,22.9,celsius
+1681331,Delaware River,8/21/2019,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,22.9,celsius
+1681335,Delaware River,8/28/2024,river_mile,14-DELA-50.4,41.7652,-75.06035,Delaware River Basin,19,celsius
+1681559,Unnamed Tributary to Cold Spring Creek,8/1/2019,river_mile,14-COLD_T7-1.1,42.157587,-75.391342,Delaware River Basin,15.1,celsius
+1681560,East Branch Delaware River,4/14/2015,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,23.2,celsius
+1681568,East Branch Delaware River,5/5/2015,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,24.7,celsius
+1681572,Unnamed Tributary to Cold Spring Creek,8/22/2019,river_mile,14-COLD_T7-1.1,42.157587,-75.391342,Delaware River Basin,17.7,celsius
+1681573,East Branch Delaware River,6/9/2015,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,23.1,celsius
+1681578,East Branch Delaware River,7/28/2015,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,31.7,celsius
+1681584,East Branch Delaware River,10/20/2015,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,20,celsius
+1681593,East Branch Delaware River,8/21/2019,river_mile,14-EDEL-1.2,41.95278,-75.27528,Delaware River Basin,23.4,celsius
+1681708,Cow Swale Brook,9/2/2009,river_mile,14-COSW-0.8,41.57303,-74.92076,Delaware River Basin,14.28,celsius
+1681712,Cow Swale Brook,8/6/2014,river_mile,14-COSW-0.8,41.57303,-74.92076,Delaware River Basin,20.87,celsius
+1682288,East Branch Delaware River,9/2/1993,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,19.6,celsius
+1682295,East Branch Delaware River,8/31/1994,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,15.8,celsius
+1682301,East Branch Delaware River,9/20/2000,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,19.399,celsius
+1682306,East Branch Delaware River,8/5/2004,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,18.399,celsius
+1682308,East Branch Delaware River,9/6/2005,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,15.7,celsius
+1682309,East Branch Delaware River,9/1/2009,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,16.899,celsius
+1682319,East Branch Delaware River,8/5/2014,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,22,celsius
+1682327,East Branch Delaware River,8/22/2019,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,21,celsius
+1682357,East Branch Delaware River,8/29/2024,river_mile,14-EDEL-55.3,42.16111,-74.62083,Delaware River Basin,18.3,celsius
+1682769,Halfway Brook,8/18/1999,river_mile,14-HAFY-0.2,41.4775,-74.91,Delaware River Basin,18.399,celsius
+1682776,Halfway Brook,8/3/2004,river_mile,14-HAFY-0.2,41.4775,-74.91,Delaware River Basin,22.2,celsius
+1682783,Halfway Brook,9/2/2009,river_mile,14-HAFY-0.2,41.4775,-74.91,Delaware River Basin,15.68,celsius
+1682786,Halfway Brook,9/22/2010,river_mile,14-HAFY-0.2,41.4775,-74.91,Delaware River Basin,14.2,celsius
+1682915,East Branch Delaware River,7/14/1988,river_mile,14-EDEL-10.7,41.96455,-75.18494,Delaware River Basin,27,celsius
+1682922,East Branch Delaware River,8/6/2014,river_mile,14-EDEL-10.7,41.96455,-75.18494,Delaware River Basin,21.1,celsius
+1682952,Delaware River,6/6/1974,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,19.5,celsius
+1682964,Delaware River,7/11/1974,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,23.5,celsius
+1682969,Delaware River,9/19/1974,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,19,celsius
+1682970,Delaware River,6/10/1981,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,21,celsius
+1682982,Delaware River,7/15/1981,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,26,celsius
+1682991,Delaware River,8/19/1981,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,22,celsius
+1682998,Delaware River,9/23/1981,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,17,celsius
+1683022,Delaware River,5/26/1987,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,18,celsius
+1683030,Delaware River,6/30/1987,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,24,celsius
+1683047,Delaware River,8/3/1987,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,24,celsius
+1683052,Delaware River,9/8/1987,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,21,celsius
+1683056,Unnamed Tributary to Fly Creek,8/7/2014,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,16.7,celsius
+1683058,Delaware River,9/1/1993,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,24.7,celsius
+1683063,Delaware River,8/30/1994,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,21.4,celsius
+1683075,Delaware River,8/17/1999,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,25.8,celsius
+1683080,Unnamed Tributary to Fly Creek,4/14/2015,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,22.2,celsius
+1683083,Delaware River,9/20/2000,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,18.7,celsius
+1683090,Unnamed Tributary to Fly Creek,5/5/2015,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,24.8,celsius
+1683091,Delaware River,8/3/2004,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,23.9,celsius
+1683100,Delaware River,9/7/2005,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,25.6,celsius
+1683102,East Branch Delaware River,8/19/1999,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,15.8,celsius
+1683110,Delaware River,9/22/2010,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,18.86,celsius
+1683111,East Branch Delaware River,8/4/2004,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,19.6,celsius
+1683116,Delaware River,8/6/2014,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,26.79,celsius
+1683119,Delaware River,8/27/2015,river_mile,14-DELA-1.8,41.3768,-74.7049,Delaware River Basin,21.4,celsius
+1683131,East Branch Delaware River,9/6/2005,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,13.1,celsius
+1683134,East Branch Delaware River,9/27/2006,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,12.3,celsius
+1683135,Unnamed Tributary to Fly Creek,6/9/2015,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,23.2,celsius
+1683143,East Branch Delaware River,8/31/2009,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,14.1,celsius
+1683145,Unnamed Tributary to Fly Creek,7/28/2015,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,31.6,celsius
+1683152,East Branch Delaware River,8/5/2014,river_mile,14-EDEL-18.9,42.02278,-75.11806,Delaware River Basin,19.5,celsius
+1683153,Unnamed Tributary to Fly Creek,10/20/2015,river_mile,14-FLYC_T2-0.6,42.044645,-75.52465,Delaware River Basin,19.8,celsius
+1683253,Delaware River,6/6/1974,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,19,celsius
+1683258,Delaware River,7/11/1974,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,23,celsius
+1683266,Delaware River,8/16/1974,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,22,celsius
+1683270,East Branch Delaware River,9/27/2006,river_mile,14-EDEL-24.7,42.03936,-75.06767,Delaware River Basin,11.3,celsius
+1683275,Delaware River,9/19/1974,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,18.5,celsius
+1683280,Delaware River,6/10/1981,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,20,celsius
+1683282,Delaware River,7/15/1981,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,23.5,celsius
+1683283,Delaware River,8/19/1981,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,22,celsius
+1683288,Delaware River,9/23/1981,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,16.5,celsius
+1683290,East Branch Delaware River,8/31/2009,river_mile,14-EDEL-24.7,42.03936,-75.06767,Delaware River Basin,12.1,celsius
+1683294,Delaware River,8/17/1999,river_mile,14-DELA-11.6,41.444,-74.8113,Delaware River Basin,24.5,celsius
+1683310,East Branch Delaware River,8/5/2014,river_mile,14-EDEL-24.7,42.03936,-75.06767,Delaware River Basin,14.7,celsius
+1683334,East Branch Delaware River,8/19/1999,river_mile,14-EDEL-57.2,42.18222,-74.60222,Delaware River Basin,23,celsius
+1683395,Delaware River,6/5/1974,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,20.8,celsius
+1683396,Delaware River,7/10/1974,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,27.5,celsius
+1683397,Delaware River,9/18/1974,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,18.5,celsius
+1683398,East Branch Delaware River,8/5/2014,river_mile,14-EDEL-59.1,42.206087,-74.60209,Delaware River Basin,22.9,celsius
+1683403,Delaware River,6/9/1981,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,23,celsius
+1683406,Delaware River,7/14/1981,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,26,celsius
+1683412,Delaware River,8/18/1981,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,22,celsius
+1683416,Delaware River,9/22/1981,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,16,celsius
+1683420,Delaware River,8/21/2019,river_mile,14-DELA-59.2,41.82344,-75.11362,Delaware River Basin,21.3,celsius
+1683455,East Branch Delaware River,8/5/2004,river_mile,14-EDEL-28.0,42.04667,-75.02721,Delaware River Basin,15.6,celsius
+1683462,East Branch Delaware River,9/6/2005,river_mile,14-EDEL-28.0,42.04667,-75.02721,Delaware River Basin,7.3,celsius
+1683467,East Branch Delaware River,9/27/2006,river_mile,14-EDEL-28.0,42.04667,-75.02721,Delaware River Basin,9.9,celsius
+1683472,East Branch Delaware River,8/31/2009,river_mile,14-EDEL-28.0,42.04667,-75.02721,Delaware River Basin,12,celsius
+1683484,East Branch Delaware River,9/27/2006,river_mile,14-EDEL-31.3,42.07583,-74.9911,Delaware River Basin,8.8,celsius
+1683546,Delaware River,6/6/1974,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,19,celsius
+1683552,Delaware River,7/11/1974,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,23,celsius
+1683559,Delaware River,8/16/1974,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,22.5,celsius
+1683566,Delaware River,9/18/1974,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,19,celsius
+1683571,Delaware River,6/10/1981,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,21.5,celsius
+1683575,Delaware River,7/15/1981,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,23,celsius
+1683580,Delaware River,8/19/1981,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,22,celsius
+1683581,East Branch Delaware River,8/31/1994,river_mile,14-EDEL-51.3,42.12611,-74.6711,Delaware River Basin,15.4,celsius
+1683586,Delaware River,9/23/1981,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,15.5,celsius
+1683587,East Branch Delaware River,9/28/2006,river_mile,14-EDEL-51.3,42.12611,-74.6711,Delaware River Basin,13.6,celsius
+1683593,East Branch Delaware River,9/1/2009,river_mile,14-EDEL-51.3,42.12611,-74.6711,Delaware River Basin,15.5,celsius
+1683594,Delaware River,8/18/1999,river_mile,14-DELA-24.2,41.48222,-74.98528,Delaware River Basin,22.6,celsius
+1683632,East Branch Delaware River,7/30/1999,river_mile,14-EDEL-52.4,42.13722,-74.65833,Delaware River Basin,22.4,celsius
+1683650,Delaware River,6/10/1981,river_mile,14-DELA-24.3,41.48251,-74.98357,Delaware River Basin,18,celsius
+1683658,Delaware River,7/15/1981,river_mile,14-DELA-24.3,41.48251,-74.98357,Delaware River Basin,20,celsius
+1683663,Delaware River,8/19/1981,river_mile,14-DELA-24.3,41.48251,-74.98357,Delaware River Basin,20,celsius
+1683667,Halfway Brook,8/27/2024,river_mile,14-HAFY-7.7,41.574043,-74.871594,Delaware River Basin,16.6,celsius
+1683669,Delaware River,9/23/1981,river_mile,14-DELA-24.3,41.48251,-74.98357,Delaware River Basin,15,celsius
+1683725,Delaware River,8/21/2019,river_mile,14-DELA-65.9,41.865244,-75.180279,Delaware River Basin,22.1,celsius
+1683737,Halfway Brook,9/2/2009,river_mile,14-HAFY-9.1,41.5888,-74.87771,Delaware River Basin,15.22,celsius
+1683744,Delaware River,6/5/1974,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.5,celsius
+1683751,Delaware River,7/10/1974,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,27,celsius
+1683756,Delaware River,8/15/1974,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,24,celsius
+1683766,Delaware River,9/18/1974,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,19,celsius
+1683787,Delaware River,6/9/1981,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,24,celsius
+1683795,Delaware River,7/14/1981,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,26,celsius
+1683809,Delaware River,8/18/1981,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21,celsius
+1683815,Delaware River,9/23/1981,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,13,celsius
+1683835,Delaware River,6/5/1974,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,19,celsius
+1683842,Delaware River,7/10/1974,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,25,celsius
+1683849,Delaware River,8/15/1974,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,17.5,celsius
+1683859,Delaware River,9/18/1974,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,17.5,celsius
+1683864,Delaware River,6/9/1981,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,24,celsius
+1683868,Delaware River,8/18/1981,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,18.5,celsius
+1683870,East Branch Delaware River,8/29/2024,river_mile,14-EDEL-67.1,42.29364,-74.559521,Delaware River Basin,17.2,celsius
+1683874,Delaware River,9/22/1981,river_mile,14-DELA-70.1,41.86767,-75.23599,Delaware River Basin,14.5,celsius
+1683881,Delaware River,9/1/1993,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.1,celsius
+1683886,Delaware River,8/30/1994,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,20.9,celsius
+1683894,Delaware River,8/18/1999,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.7,celsius
+1683898,Fowlwood Brook,8/17/1999,river_mile,14-FOWL-2.0,41.6474,-74.58879,Delaware River Basin,24.9,celsius
+1683903,Delaware River,8/4/2004,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,20.5,celsius
+1683906,Delaware River,9/2/2009,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,16.37,celsius
+1683911,Delaware River,8/6/2014,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.2,celsius
+1683932,Delaware River,8/7/2014,river_mile,14-DELA-75.3,41.9255,-75.27505,Delaware River Basin,17.8,celsius
+1683935,Delaware River,4/15/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.4,celsius
+1683949,Delaware River,5/6/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,24,celsius
+1683960,Delaware River,6/10/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21.1,celsius
+1683967,Delaware River,7/29/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,24.5,celsius
+1683975,Delaware River,9/3/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,22.48,celsius
+1683985,Delaware River,10/21/2015,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,19.5,celsius
+1683990,Delaware River,8/21/2019,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,22.1,celsius
+1683997,Delaware River,8/28/2024,river_mile,14-DELA-45.2,41.705,-75.06694,Delaware River Basin,21,celsius
+1684020,Downs Brook,8/19/1999,river_mile,14-DOWN-0.5,42.08083,-74.99472,Delaware River Basin,16.7,celsius
+1684027,Downs Brook,8/5/2004,river_mile,14-DOWN-0.5,42.08083,-74.99472,Delaware River Basin,15.6,celsius
+1684074,Dry Brook,8/5/2004,river_mile,14-DRBR-1.0,42.14417,-74.61889,Delaware River Basin,16,celsius
+1684477,Unnamed Tributary to Halfway Brook,8/20/2019,river_mile,14-HAFY_T8-0.1,41.529982,-74.883949,Delaware River Basin,20.4,celsius
+1684564,Elk Creek,9/30/1999,river_mile,14-ELK-0.1,42.2993,-74.89289,Delaware River Basin,13.7,celsius
+1684569,Elk Creek,8/5/2004,river_mile,14-ELK-0.1,42.2993,-74.89289,Delaware River Basin,16.899,celsius
+1684584,Elk Creek,8/29/2024,river_mile,14-ELK-0.1,42.2993,-74.89289,Delaware River Basin,17.6,celsius
+1684679,Fish Creek,8/4/2004,river_mile,14-FSED-0.1,41.96472,-75.17889,Delaware River Basin,18,celsius
+1684688,Fish Creek,8/21/2019,river_mile,14-FSED-0.1,41.96472,-75.17889,Delaware River Basin,21,celsius
+1684716,Emory Brook,7/22/2010,river_mile,14-EMRY-0.7,42.15123,-74.51849,Delaware River Basin,14.69,celsius
+1684718,Emory Brook,10/27/2010,river_mile,14-EMRY-0.7,42.15123,-74.51849,Delaware River Basin,11.35,celsius
+1684719,Fish Creek,8/28/2024,river_mile,14-FSED-0.1,41.96472,-75.17889,Delaware River Basin,16.3,celsius
+1684726,Emory Brook,5/12/2011,river_mile,14-EMRY-0.7,42.15123,-74.51849,Delaware River Basin,10,celsius
+1684733,Emory Brook,7/21/2011,river_mile,14-EMRY-0.7,42.15123,-74.51849,Delaware River Basin,15.8,celsius
+1684761,Unnamed Tributary to Halfway Brook,8/20/2019,river_mile,14-HAFY_T8-0.8,41.53975,-74.88535,Delaware River Basin,20.9,celsius
+1684809,Fish Creek,8/6/2014,river_mile,14-FSED-2.5,41.947233,-75.14282,Delaware River Basin,15.8,celsius
+1684834,Mongaup Creek,8/18/1999,river_mile,14-GAUP-0.1,41.9131,-74.72534,Delaware River Basin,15.5,celsius
+1684835,Unnamed Tributary to Halfway Brook,9/2/2009,river_mile,14-HAFY_T9-0.6,41.52819,-74.86504,Delaware River Basin,13.21,celsius
+1684857,Hankins Creek,8/18/1999,river_mile,14-HANK-0.1,41.81389,-75.09034,Delaware River Basin,21,celsius
+1684883,Dry Brook,8/22/2019,river_mile,14-DRBR-2.1,42.140737,-74.603759,Delaware River Basin,18.2,celsius
+1684886,Hankins Creek,9/1/2009,river_mile,14-HANK-2.0,41.83424,-75.08147,Delaware River Basin,15.11,celsius
+1684898,High Falls Brook,7/1/1987,river_mile,14-HFAL-0.1,41.97583,-74.52194,Delaware River Basin,16,celsius
+1684899,High Falls Brook,8/26/1987,river_mile,14-HFAL-0.1,41.97583,-74.52194,Delaware River Basin,10.5,celsius
+1684945,East Brook,8/19/1999,river_mile,14-ESTB-0.6,42.173,-75.12139,Delaware River Basin,18.1,celsius
+1684953,East Brook,8/5/2004,river_mile,14-ESTB-0.6,42.173,-75.12139,Delaware River Basin,15.9,celsius
+1684959,East Brook,8/29/2024,river_mile,14-ESTB-0.6,42.173,-75.12139,Delaware River Basin,17,celsius
+1685010,Glen Burnie,8/5/2010,river_mile,14-GBUR-0.8,42.2663,-74.85619,Delaware River Basin,17.95,celsius
+1685017,Glen Burnie,10/28/2010,river_mile,14-GBUR-0.8,42.2663,-74.85619,Delaware River Basin,9.46,celsius
+1685020,Glen Burnie,5/11/2011,river_mile,14-GBUR-0.8,42.2663,-74.85619,Delaware River Basin,8.48,celsius
+1685039,Glen Burnie,8/2/2011,river_mile,14-GBUR-0.8,42.2663,-74.85619,Delaware River Basin,17.47,celsius
+1685050,Huckleberry Brook,8/5/2010,river_mile,14-HUCK-0.4,42.11885,-74.67198,Delaware River Basin,17.2,celsius
+1685058,Huckleberry Brook,10/27/2010,river_mile,14-HUCK-0.4,42.11885,-74.67198,Delaware River Basin,11.57,celsius
+1685067,Huckleberry Brook,5/12/2011,river_mile,14-HUCK-0.4,42.11885,-74.67198,Delaware River Basin,10.199,celsius
+1685068,Huckleberry Brook,8/2/2011,river_mile,14-HUCK-0.4,42.11885,-74.67198,Delaware River Basin,16.3,celsius
+1685080,Humphries Brook,9/2/2009,river_mile,14-HUMP-1.4,41.88298,-75.22763,Delaware River Basin,13.2,celsius
+1685085,Dryden Brook,8/19/1999,river_mile,14-DRYD-2.1,42.11945,-75.24943,Delaware River Basin,18.8,celsius
+1685099,Dryden Brook,8/4/2010,river_mile,14-DRYD-2.1,42.11945,-75.24943,Delaware River Basin,18.89,celsius
+1685103,Hurleyville Creek,8/3/2004,river_mile,14-HURL-2.6,41.74306,-74.66722,Delaware River Basin,25.6,celsius
+1685112,Dryden Brook,10/27/2010,river_mile,14-DRYD-2.1,42.11945,-75.24943,Delaware River Basin,12.3,celsius
+1685118,Dryden Brook,5/10/2011,river_mile,14-DRYD-2.1,42.11945,-75.24943,Delaware River Basin,12.55,celsius
+1685121,Dryden Brook,8/3/2011,river_mile,14-DRYD-2.1,42.11945,-75.24943,Delaware River Basin,18.07,celsius
+1685186,Gold Creek,8/17/1999,river_mile,14-GOLD-0.8,41.38278,-74.67416,Delaware River Basin,24.1,celsius
+1685191,Gold Creek,8/3/2004,river_mile,14-GOLD-0.8,41.38278,-74.67416,Delaware River Basin,24.5,celsius
+1685265,Gumaer Brook,8/17/1999,river_mile,14-GUMR-0.8,41.59722,-74.46861,Delaware River Basin,16.899,celsius
+1685267,Gumaer Brook,9/2/2009,river_mile,14-GUMR-0.8,41.59722,-74.46861,Delaware River Basin,14.4,celsius
+1685343,East Brook,8/22/2019,river_mile,14-ESTB-2.2,42.186851,-75.099168,Delaware River Basin,17.6,celsius
+1685479,Fall Brook,8/18/1999,river_mile,14-FALB-0.1,41.95528,-74.56834,Delaware River Basin,14.6,celsius
+1685489,Fall Brook,8/3/2010,river_mile,14-FALB-0.1,41.95528,-74.56834,Delaware River Basin,14.55,celsius
+1685494,Fall Brook,5/10/2011,river_mile,14-FALB-0.1,41.95528,-74.56834,Delaware River Basin,8.19,celsius
+1685498,Fall Brook,8/1/2011,river_mile,14-FALB-0.1,41.95528,-74.56834,Delaware River Basin,16.989,celsius
+1685718,Hurleyville Creek,8/20/2019,river_mile,14-HURL-2.8,41.7445,-74.66709,Delaware River Basin,24.9,celsius
+1685829,Little Delaware River,7/28/1999,river_mile,14-LDEL-0.1,42.2578,-74.9275,Delaware River Basin,27.7,celsius
+1685832,Little Delaware River,9/22/2010,river_mile,14-LDEL-0.1,42.2578,-74.9275,Delaware River Basin,14.71,celsius
+1685854,Jaketown Creek,8/18/1999,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,20.8,celsius
+1685860,Jaketown Creek,9/2/2009,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,16.32,celsius
+1685865,Jaketown Creek,8/16/2014,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,21.6,celsius
+1685873,Jaketown Creek,4/15/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,21.1,celsius
+1685875,Jaketown Creek,5/6/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,24,celsius
+1685877,Jaketown Creek,6/10/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,21,celsius
+1685880,Jaketown Creek,7/29/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,25,celsius
+1685884,Jaketown Creek,8/27/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,18.66,celsius
+1685891,Jaketown Creek,10/21/2015,river_mile,14-JAKE-3.0,41.7219,-74.9223,Delaware River Basin,19.3,celsius
+1685954,Falls Creek,9/30/1999,river_mile,14-FALS-0.1,42.29917,-74.90305,Delaware River Basin,13.3,celsius
+1685970,Falls Creek,8/29/2024,river_mile,14-FALS-0.1,42.29917,-74.90305,Delaware River Basin,15.9,celsius
+1686030,Fish Cabin Creek,8/17/1999,river_mile,14-FCAB-0.1,41.44111,-74.80305,Delaware River Basin,18.5,celsius
+1686158,Fall Clove Stream,8/19/1999,river_mile,14-FCLV-0.1,42.1148,-74.8903,Delaware River Basin,15.9,celsius
+1686182,Fall Clove Stream,8/4/2010,river_mile,14-FCLV-0.1,42.1148,-74.8903,Delaware River Basin,20.66,celsius
+1686187,Fall Clove Stream,10/28/2010,river_mile,14-FCLV-0.1,42.1148,-74.8903,Delaware River Basin,10.06,celsius
+1686449,Judson Brook,8/17/1999,river_mile,14-JUDS-0.3,41.6921,-74.82609,Delaware River Basin,21.4,celsius
+1686455,Judson Brook,8/3/2004,river_mile,14-JUDS-0.3,41.6921,-74.82609,Delaware River Basin,26.1,celsius
+1686519,Kerrs Creek,9/1/2009,river_mile,14-KERR-1.6,42.2131,-75.1423,Delaware River Basin,13.36,celsius
+1686524,Lower Neversink River,8/20/2019,river_mile,14-NEVR-14.6,41.50444,-74.64778,Delaware River Basin,22.8,celsius
+1686564,Lower Neversink River,8/27/2024,river_mile,14-NEVR-14.6,41.50444,-74.64778,Delaware River Basin,22,celsius
+1686851,Little Delaware River,9/2/1993,river_mile,14-LDEL-1.7,42.2525,-74.90138,Delaware River Basin,19,celsius
+1686854,Little Delaware River,8/5/2004,river_mile,14-LDEL-1.7,42.2525,-74.90138,Delaware River Basin,16.7,celsius
+1686858,Mongaup River,8/17/1999,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,21.4,celsius
+1686860,Little Delaware River,9/6/2005,river_mile,14-LDEL-1.7,42.2525,-74.90138,Delaware River Basin,15,celsius
+1686862,Mongaup River,9/20/2000,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,16.5,celsius
+1686863,Mongaup River,8/3/2004,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,24.4,celsius
+1686864,Little Delaware River,8/31/2009,river_mile,14-LDEL-1.7,42.2525,-74.90138,Delaware River Basin,15.1,celsius
+1686868,Mongaup River,8/6/2014,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,21.79,celsius
+1686890,Mongaup River,4/16/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,22.2,celsius
+1686894,Mongaup River,5/7/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,22.9,celsius
+1686895,Mongaup River,6/11/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,22.3,celsius
+1686898,Mongaup River,7/30/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,22.2,celsius
+1686904,Mongaup River,8/26/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,21.38,celsius
+1686911,Mongaup River,10/22/2015,river_mile,14-MONG-18.9,41.66678,-74.78259,Delaware River Basin,19.7,celsius
+1686978,Kiamesha Creek,8/17/1999,river_mile,14-KIAM-0.1,41.66945,-74.62583,Delaware River Basin,22.5,celsius
+1686983,Kiamesha Creek,8/20/2019,river_mile,14-KIAM-0.1,41.66945,-74.62583,Delaware River Basin,23.2,celsius
+1687060,Kiamesha Creek,9/1/2009,river_mile,14-KIAM-1.2,41.6798,-74.6378,Delaware River Basin,16.53,celsius
+1687104,Kiamesha Creek,8/17/1999,river_mile,14-KIAM-2.1,41.672,-74.64739,Delaware River Basin,23.3,celsius
+1687148,Kinne Brook,8/17/1999,river_mile,14-KINN-0.7,41.6334,-74.7759,Delaware River Basin,21.7,celsius
+1687153,Kinne Brook,8/3/2004,river_mile,14-KINN-0.7,41.6334,-74.7759,Delaware River Basin,22.3,celsius
+1687188,Lake Brook,9/30/1999,river_mile,14-LAKE-0.1,42.37333,-74.688,Delaware River Basin,13.6,celsius
+1687229,Launt Hollow,8/31/2009,river_mile,14-LAUN-0.4,42.18958,-74.99729,Delaware River Basin,14.8,celsius
+1687252,Lower Beech Hill Brook,8/7/2014,river_mile,14-LBEE-0.6,42.068302,-74.82099,Delaware River Basin,16.3,celsius
+1687394,Little Beaver Kill,7/28/1993,river_mile,14-LBEV-0.2,41.90083,-74.82944,Delaware River Basin,20.7,celsius
+1687410,Little Beaver Kill,7/26/1994,river_mile,14-LBEV-0.2,41.90083,-74.82944,Delaware River Basin,20,celsius
+1687459,Lower Neversink River,8/20/1987,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,23,celsius
+1687462,Lower Neversink River,8/17/1999,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,23.9,celsius
+1687463,Middle Branch Mongaup River,8/17/1999,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,20.2,celsius
+1687465,Lower Neversink River,9/20/2000,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,16.399,celsius
+1687467,Lower Neversink River,8/3/2004,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,23.8,celsius
+1687469,Lower Neversink River,9/7/2005,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,20.2,celsius
+1687471,Lower Neversink River,9/2/2009,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,17.55,celsius
+1687473,Middle Branch Mongaup River,8/4/2004,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,18.1,celsius
+1687475,Middle Branch Mongaup River,9/1/2009,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,16.77,celsius
+1687478,Middle Branch Mongaup River,9/23/2010,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,17.149,celsius
+1687480,Lower Neversink River,8/6/2014,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,21.87,celsius
+1687486,Lower Neversink River,8/20/2019,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,23.1,celsius
+1687487,Middle Branch Mongaup River,8/20/2019,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,23.8,celsius
+1687491,Middle Branch Mongaup River,8/27/2024,river_mile,14-MONG_M-0.3,41.70761,-74.74078,Delaware River Basin,19.3,celsius
+1687504,Lower Neversink River,8/27/2024,river_mile,14-NEVR-0.5,41.36033,-74.68762,Delaware River Basin,20.7,celsius
+1687619,Little Beaver Kill,7/28/1993,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,20.1,celsius
+1687628,Little Beaver Kill,7/26/1994,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,19.899,celsius
+1687638,Little Beaver Kill,8/18/1999,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,20.8,celsius
+1687652,Little Beaver Kill,8/4/2004,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,21.2,celsius
+1687661,Little Beaver Kill,9/1/2009,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,12.4,celsius
+1687673,Little Beaver Kill,8/6/2014,river_mile,14-LBEV-1.9,41.88241,-74.81073,Delaware River Basin,17.2,celsius
+1687820,Little Beaver Kill,7/26/1994,river_mile,14-LBEV-10.0,41.873,-74.7076,Delaware River Basin,20.2,celsius
+1687830,Little Beaver Kill,8/3/2004,river_mile,14-LBEV-10.0,41.873,-74.7076,Delaware River Basin,22.4,celsius
+1688087,Middle Branch Mongaup River,9/1/2009,river_mile,14-MONG_M-3.1,41.74418,-74.74742,Delaware River Basin,15.84,celsius
+1688171,East Mongaup River,8/20/2019,river_mile,14-MONG_E-0.2,41.7075,-74.73054,Delaware River Basin,23.9,celsius
+1688265,Lebanon Lake Brook,8/20/2019,river_mile,14-LEBA-0.6,41.566455,-74.795962,Delaware River Basin,25.2,celsius
+1688285,East Mongaup River,8/17/1999,river_mile,14-MONG_E-0.5,41.7075,-74.73054,Delaware River Basin,18.8,celsius
+1688295,East Mongaup River,8/4/2004,river_mile,14-MONG_E-0.5,41.7075,-74.73054,Delaware River Basin,20,celsius
+1688303,East Mongaup River,9/1/2009,river_mile,14-MONG_E-0.5,41.7075,-74.73054,Delaware River Basin,17.2,celsius
+1688337,Lemons Brook,9/2/2009,river_mile,14-LEMO-2.3,41.69943,-74.86882,Delaware River Basin,13.1,celsius
+1688344,East Mongaup River,8/6/2014,river_mile,14-MONG_E-5.1,41.742988,-74.69375,Delaware River Basin,19.309,celsius
+1688499,Middle Branch Mongaup River,9/1/2009,river_mile,14-MONG_M-5.6,41.77385,-74.7384,Delaware River Basin,17.11,celsius
+1688507,Middle Branch Mongaup River,8/6/2014,river_mile,14-MONG_M-5.6,41.77385,-74.7384,Delaware River Basin,16.6,celsius
+1688512,Middle Branch Mongaup River,8/20/2019,river_mile,14-MONG_M-5.6,41.77385,-74.7384,Delaware River Basin,23.3,celsius
+1688529,Loomis Brook,7/28/1998,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,17.1,celsius
+1688533,Loomis Brook,8/19/1999,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,18,celsius
+1688542,Loomis Brook,8/3/2010,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,17.91,celsius
+1688570,Loomis Brook,10/21/2010,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,8.38,celsius
+1688574,Lower Neversink River,8/20/1987,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,24,celsius
+1688575,Loomis Brook,5/17/2011,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,10,celsius
+1688578,Loomis Brook,7/21/2011,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,19.34,celsius
+1688579,Lower Neversink River,8/17/1999,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,25.4,celsius
+1688585,Loomis Brook,8/5/2014,river_mile,14-LOOM-0.5,42.15972,-75.275,Delaware River Basin,16.399,celsius
+1688586,Lower Neversink River,9/2/2009,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,15.76,celsius
+1688594,Lower Neversink River,8/6/2014,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,20.97,celsius
+1688636,Lower Neversink River,4/16/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,22.9,celsius
+1688643,Lower Neversink River,5/7/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,22.6,celsius
+1688647,Lower Neversink River,6/11/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,21.6,celsius
+1688654,Lower Neversink River,7/30/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,22.2,celsius
+1688656,Little Red Kill,9/1/2009,river_mile,14-LRED-0.1,42.15622,-74.53241,Delaware River Basin,13.3,celsius
+1688662,Lower Neversink River,8/27/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,18.2,celsius
+1688665,Little Red Kill,8/5/2014,river_mile,14-LRED-0.1,42.15622,-74.53241,Delaware River Basin,18.2,celsius
+1688669,Lower Neversink River,10/22/2015,river_mile,14-NEVR-14.8,41.50444,-74.64778,Delaware River Basin,19.7,celsius
+1688708,Mckee Brook,8/6/2014,river_mile,14-MCKE-0.5,41.620792,-74.590993,Delaware River Basin,19.95,celsius
+1688716,Middle Branch Mongaup River,8/28/2024,river_mile,14-MONG_M-9.9,41.820844,-74.713207,Delaware River Basin,19.2,celsius
+1688753,Meeker Hollow,8/5/2014,river_mile,14-MEEK-1.3,42.260837,-74.611791,Delaware River Basin,18.2,celsius
+1688796,Matawa Lake Outlet,9/1/2009,river_mile,14-META-0.1,41.86039,-74.81321,Delaware River Basin,16.6,celsius
+1688845,Mill Brook,8/17/1999,river_mile,14-MILP-3.0,41.47194,-74.82111,Delaware River Basin,20.7,celsius
+1688847,Mill Brook,8/3/2004,river_mile,14-MILP-3.0,41.47194,-74.82111,Delaware River Basin,19.8,celsius
+1688858,Mitchell Pond Brook,9/2/2009,river_mile,14-MITC-0.4,41.68457,-75.04571,Delaware River Basin,13.68,celsius
+1688892,Mill Brook,8/19/1999,river_mile,14-MLBR-0.4,42.1064,-74.7304,Delaware River Basin,21.3,celsius
+1688900,Mill Brook,8/5/2004,river_mile,14-MLBR-0.4,42.1064,-74.7304,Delaware River Basin,15.6,celsius
+1688958,West Branch Mongaup River,8/17/1999,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,19.8,celsius
+1688965,West Branch Mongaup River,9/20/2000,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,19.1,celsius
+1688975,West Branch Mongaup River,8/3/2004,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,25.1,celsius
+1688980,West Branch Mongaup River,9/1/2009,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,18.18,celsius
+1688985,West Branch Mongaup River,9/23/2010,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,15.69,celsius
+1688991,West Branch Mongaup River,8/20/2019,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,23.2,celsius
+1689006,West Branch Mongaup River,8/27/2024,river_mile,14-MONG_W-0.2,41.68111,-74.775,Delaware River Basin,21.5,celsius
+1689019,Lower Neversink River,4/14/2021,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,12.2,celsius
+1689026,Mill Brook,7/22/2010,river_mile,14-MLBR-9.0,42.06712,-74.59073,Delaware River Basin,14.07,celsius
+1689029,Lower Neversink River,6/16/2021,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,18.4,celsius
+1689032,Mill Brook,5/12/2011,river_mile,14-MLBR-9.0,42.06712,-74.59073,Delaware River Basin,10.199,celsius
+1689033,Lower Neversink River,8/17/2021,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20.1,celsius
+1689039,Mill Brook,8/1/2011,river_mile,14-MLBR-9.0,42.06712,-74.59073,Delaware River Basin,14.5,celsius
+1689040,Lower Neversink River,10/21/2021,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,13.6,celsius
+1689063,Lower Neversink River,4/14/2022,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,12.2,celsius
+1689073,Lower Neversink River,8/16/2022,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20.7,celsius
+1689081,Lower Neversink River,6/21/2023,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,19.7,celsius
+1689087,Lower Neversink River,8/16/2023,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20,celsius
+1689090,Lower Neversink River,10/19/2023,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,11.9,celsius
+1689095,Lower Neversink River,4/24/2024,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,11.7,celsius
+1689098,Lower Neversink River,6/13/2024,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,16.9,celsius
+1689099,Lower Neversink River,8/22/2024,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,18.3,celsius
+1689111,Lower Neversink River,8/27/2024,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20.7,celsius
+1689116,Lower Neversink River,10/24/2024,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,14.6,celsius
+1689128,Lower Neversink River,4/22/2025,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,14.8,celsius
+1689135,Lower Neversink River,6/10/2025,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,16.6,celsius
+1689144,Little Beaver Kill,8/20/2019,river_mile,14-LBEV-2.0,41.88055,-74.81055,Delaware River Basin,24.1,celsius
+1689147,Lower Neversink River,8/18/2025,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,23.1,celsius
+1689155,Lower Neversink River,8/18/2025,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,23.1,celsius
+1689161,Lower Neversink River,10/15/2025,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,13.4,celsius
+1689166,Little Beaver Kill,8/28/2024,river_mile,14-LBEV-2.0,41.88055,-74.81055,Delaware River Basin,19,celsius
+1689173,Lower Neversink River,4/21/2026,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,9.1,celsius
+1689180,Lower Neversink River,6/9/2026,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20,celsius
+1689289,Little Beaver Kill,7/26/1994,river_mile,14-LBEV-4.4,41.86167,-74.785,Delaware River Basin,19,celsius
+1689317,Little Beaver Kill,7/26/1994,river_mile,14-LBEV-6.0,41.85889,-74.75611,Delaware River Basin,18.399,celsius
+1689460,Unnamed Tributary to Little Beaver Kill,7/26/1994,river_mile,14-LBEV_T01-0.4,41.85556,-74.78361,Delaware River Basin,18.8,celsius
+1689513,Unnamed Tributary to Little Beaver Kill,7/26/1994,river_mile,14-LBEV_T03-0.1,41.85528,-74.75999,Delaware River Basin,19,celsius
+1689628,Unnamed Tributary to Little Beaver Kill,7/26/1994,river_mile,14-LBEV_T04-0.3,41.8625,-74.74693,Delaware River Basin,17.899,celsius
+1689630,Unnamed Tributary to Little Beaver Kill,9/1/2009,river_mile,14-LBEV_T04-0.3,41.8625,-74.74693,Delaware River Basin,12.1,celsius
+1689702,West Branch Mongaup River,9/1/2009,river_mile,14-MONG_W-10.9,41.7925,-74.8273,Delaware River Basin,17.32,celsius
+1689742,West Branch Mongaup River,9/20/2000,river_mile,14-MONG_W-2.3,41.70722,-74.7886,Delaware River Basin,19.1,celsius
+1689833,West Branch Mongaup River,9/20/2000,river_mile,14-MONG_W-3.3,41.71556,-74.79277,Delaware River Basin,19,celsius
+1689848,Lower Neversink River,8/20/1987,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,12,celsius
+1689857,Lower Neversink River,9/1/1993,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,12.1,celsius
+1689861,Lower Neversink River,8/30/1994,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,12.7,celsius
+1689862,West Branch Mongaup River,9/20/2000,river_mile,14-MONG_W-3.6,41.71917,-74.79027,Delaware River Basin,18.399,celsius
+1689865,Lower Neversink River,8/17/1999,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,13.2,celsius
+1689870,Lower Neversink River,8/3/2004,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,19.6,celsius
+1689874,Lower Neversink River,9/7/2005,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,12.7,celsius
+1689875,Mongaup River,5/26/1987,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,11.5,celsius
+1689878,Mongaup River,8/3/1987,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,19.5,celsius
+1689881,Lower Neversink River,9/28/2006,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,10.9,celsius
+1689885,Mongaup River,9/1/1993,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,22.1,celsius
+1689886,Lower Neversink River,9/1/2009,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,10.029,celsius
+1689890,Mongaup River,8/17/1999,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,21.6,celsius
+1689891,Lower Neversink River,8/20/2019,river_mile,14-NEVR-36.8,41.76,-74.59917,Delaware River Basin,14.1,celsius
+1689897,Mongaup River,8/3/2004,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,21.1,celsius
+1689907,Mongaup River,9/2/2009,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,20.66,celsius
+1689916,Mongaup River,8/20/2019,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,21.3,celsius
+1689927,Mongaup River,8/27/2024,river_mile,14-MONG-0.1,41.42667,-74.75611,Delaware River Basin,20,celsius
+1689942,West Branch Mongaup River,9/20/2000,river_mile,14-MONG_W-5.7,41.745,-74.78527,Delaware River Basin,19.8,celsius
+1689946,West Branch Mongaup River,9/1/2009,river_mile,14-MONG_W-5.7,41.745,-74.78527,Delaware River Basin,22.62,celsius
+1690090,Lower Neversink River,8/20/1987,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,22,celsius
+1690091,Lower Neversink River,8/17/1999,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,23.1,celsius
+1690092,Lower Neversink River,8/3/2004,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,25.8,celsius
+1690093,Lower Neversink River,9/7/2005,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,16.8,celsius
+1690094,Lower Neversink River,9/28/2006,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,12,celsius
+1690095,Lower Neversink River,9/1/2009,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,14.07,celsius
+1690099,Lower Neversink River,8/20/2019,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,17.6,celsius
+1690100,Lower Neversink River,8/27/2024,river_mile,14-NEVR-26.2,41.63445,-74.61916,Delaware River Basin,17.1,celsius
+1690294,West Branch Mongaup River,6/30/2026,river_mile,14-MONG_W-6.0,41.747771,-74.78468,Delaware River Basin,24.7,celsius
+1690302,West Branch Mongaup River,6/30/2026,river_mile,14-MONG_W-6.0,41.747771,-74.78468,Delaware River Basin,25,celsius
+1690311,Lower Neversink River,8/27/2024,river_mile,14-NEVR-26.5,41.677668,-74.598396,Delaware River Basin,16.3,celsius
+1690321,West Branch Mongaup River,8/25/2026,river_mile,14-MONG_W-6.0,41.747771,-74.78468,Delaware River Basin,21.8,celsius
+1690328,West Branch Mongaup River,8/25/2026,river_mile,14-MONG_W-6.0,41.747771,-74.78468,Delaware River Basin,21.8,celsius
+1690354,Lower Neversink River,8/20/1987,river_mile,14-NEVR-27.8,41.65556,-74.60972,Delaware River Basin,20,celsius
+1690422,Lower Neversink River,8/20/1987,river_mile,14-NEVR-39.6,41.7893,-74.6158,Delaware River Basin,9,celsius
+1690424,Lower Neversink River,9/28/2006,river_mile,14-NEVR-39.6,41.7893,-74.6158,Delaware River Basin,11.3,celsius
+1690484,West Branch Mongaup River,6/30/2026,river_mile,14-MONG_W-6.1,41.749277,-74.784023,Delaware River Basin,25.7,celsius
+1690485,Lower Neversink River,8/20/1987,river_mile,14-NEVR-30.6,41.69167,-74.60056,Delaware River Basin,19,celsius
+1690487,Lower Neversink River,9/28/2006,river_mile,14-NEVR-30.6,41.69167,-74.60056,Delaware River Basin,12,celsius
+1690488,Lower Neversink River,9/1/2009,river_mile,14-NEVR-30.6,41.69167,-74.60056,Delaware River Basin,13.64,celsius
+1690489,West Branch Mongaup River,6/30/2026,river_mile,14-MONG_W-6.1,41.749277,-74.784023,Delaware River Basin,25.4,celsius
+1690493,Lower Neversink River,8/6/2014,river_mile,14-NEVR-30.6,41.69167,-74.60056,Delaware River Basin,12.62,celsius
+1690499,West Branch Mongaup River,8/25/2026,river_mile,14-MONG_W-6.1,41.749277,-74.784023,Delaware River Basin,21.9,celsius
+1690507,West Branch Mongaup River,8/25/2026,river_mile,14-MONG_W-6.1,41.749277,-74.784023,Delaware River Basin,21.9,celsius
+1690511,Lower Neversink River,8/20/1987,river_mile,14-NEVR-34.4,41.73,-74.60416,Delaware River Basin,14.5,celsius
+1690574,Marsh Creek,8/19/1999,river_mile,14-MRSH-0.2,42.0584,-75.4958,Delaware River Basin,18,celsius
+1690579,Marsh Creek,8/4/2004,river_mile,14-MRSH-0.2,42.0584,-75.4958,Delaware River Basin,18.7,celsius
+1690637,Lower Neversink River,8/20/1987,river_mile,14-NEVR-10.1,41.45583,-74.60083,Delaware River Basin,24,celsius
+1690658,Spring Brook,8/18/1999,river_mile,14-SPRB-0.5,41.9676,-74.89881,Delaware River Basin,19.5,celsius
+1690665,Spring Brook,7/31/2019,river_mile,14-SPRB-0.5,41.9676,-74.89881,Delaware River Basin,18.2,celsius
+1690676,Spring Brook,8/22/2019,river_mile,14-SPRB-0.5,41.9676,-74.89881,Delaware River Basin,17.2,celsius
+1690822,Steele Brook,9/30/1999,river_mile,14-STEL-0.6,42.2774,-74.9252,Delaware River Basin,13.7,celsius
+1691127,Steele Brook,8/22/2019,river_mile,14-STEL-1.6,42.290683,-74.931473,Delaware River Basin,19.7,celsius
+1691186,Lower Neversink River,9/1/1993,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,24,celsius
+1691193,Lower Neversink River,8/30/1994,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,20.1,celsius
+1691199,Lower Neversink River,8/17/1999,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,23.4,celsius
+1691206,Lower Neversink River,8/6/2014,river_mile,14-NEVR-8.9,41.4422,-74.6002,Delaware River Basin,22.21,celsius
+1691242,Tanners Creek,8/25/2026,river_mile,14-TANR-1.3,41.6457544,-74.6683934,Delaware River Basin,18.9,celsius
+1691246,Tanners Creek,8/25/2026,river_mile,14-TANR-1.3,41.6457544,-74.6683934,Delaware River Basin,18.9,celsius
+1691259,East Branch Ten Mile River,8/18/1999,river_mile,14-TENR_E-1.4,41.57083,-75.00945,Delaware River Basin,19.5,celsius
+1691265,East Branch Ten Mile River,8/3/2004,river_mile,14-TENR_E-1.4,41.57083,-75.00945,Delaware River Basin,24.1,celsius
+1691271,East Branch Ten Mile River,9/2/2009,river_mile,14-TENR_E-1.4,41.57083,-75.00945,Delaware River Basin,16.43,celsius
+1691273,East Branch Ten Mile River,9/22/2010,river_mile,14-TENR_E-1.4,41.57083,-75.00945,Delaware River Basin,13.75,celsius
+1691294,Trout Creek,7/28/1998,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,17.399,celsius
+1691300,Trout Creek,8/5/2014,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,18.1,celsius
+1691307,Trout Creek,4/14/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,22.5,celsius
+1691312,Trout Creek,5/5/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,25.3,celsius
+1691316,Trout Creek,6/9/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,23.1,celsius
+1691319,Trout Creek,7/28/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,31.6,celsius
+1691323,Trout Creek,8/25/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,20.7,celsius
+1691325,Trout Creek,10/20/2015,river_mile,14-TRUT-1.4,42.17694,-75.27888,Delaware River Basin,19.6,celsius
+1691373,Unnamed Tributary to Tanners Creek,6/30/2026,river_mile,14-TANR_T2-0.6,41.641846,-74.676295,Delaware River Basin,20,celsius
+1691376,Unnamed Tributary to Tanners Creek,6/30/2026,river_mile,14-TANR_T2-0.6,41.641846,-74.676295,Delaware River Basin,19.5,celsius
+1691380,Unnamed Tributary to Tanners Creek,8/25/2026,river_mile,14-TANR_T2-0.6,41.641846,-74.676295,Delaware River Basin,15.6,celsius
+1691385,Unnamed Tributary to Tanners Creek,8/25/2026,river_mile,14-TANR_T2-0.6,41.641846,-74.676295,Delaware River Basin,15.6,celsius
+1691433,Unnamed Tributary to Lower Neversink River,8/20/2019,river_mile,14-NEVR_T20-0.3,41.4919,-74.6217,Delaware River Basin,17,celsius
+1691458,Pine Kill,8/27/2024,river_mile,14-PINE-3.9,41.54379,-74.57426,Delaware River Basin,15.8,celsius
+1691550,Trout Brook,9/1/2009,river_mile,14-TBOK-2.9,41.80503,-74.70928,Delaware River Basin,12.9,celsius
+1691552,Trout Brook,8/27/2024,river_mile,14-TBOK-2.9,41.80503,-74.70928,Delaware River Basin,16.1,celsius
+1691645,Terry Clove Brook,8/19/1999,river_mile,14-TCLV-3.6,42.12083,-74.89555,Delaware River Basin,17.6,celsius
+1691651,Terry Clove Brook,8/5/2004,river_mile,14-TCLV-3.6,42.12083,-74.89555,Delaware River Basin,16.399,celsius
+1691724,Tenmile River,8/18/1999,river_mile,14-TENR-0.1,41.55583,-75.01917,Delaware River Basin,19.399,celsius
+1691730,Tenmile River,8/3/2004,river_mile,14-TENR-0.1,41.55583,-75.01917,Delaware River Basin,23.6,celsius
+1691740,Tenmile River,9/2/2009,river_mile,14-TENR-0.1,41.55583,-75.01917,Delaware River Basin,15.42,celsius
+1692045,Thompson Hollow,8/5/2010,river_mile,14-THOH-4.3,42.26294,-74.67198,Delaware River Basin,16.97,celsius
+1692048,Thompson Hollow,10/28/2010,river_mile,14-THOH-4.3,42.26294,-74.67198,Delaware River Basin,9.12,celsius
+1692050,Thompson Hollow,5/11/2011,river_mile,14-THOH-4.3,42.26294,-74.67198,Delaware River Basin,8.43,celsius
+1692057,Thompson Hollow,8/2/2011,river_mile,14-THOH-4.3,42.26294,-74.67198,Delaware River Basin,16.45,celsius
+1692060,Oquaga Creek,8/31/1994,river_mile,14-OQUA-0.3,42.05972,-75.42639,Delaware River Basin,15.2,celsius
+1692072,Oquaga Creek,8/19/1999,river_mile,14-OQUA-0.3,42.05972,-75.42639,Delaware River Basin,16.7,celsius
+1692120,Tenmile River,8/21/2019,river_mile,14-TENR-3.7,41.59927,-75.012365,Delaware River Basin,21,celsius
+1692123,Third Brook,8/19/1999,river_mile,14-THRD-0.5,42.17333,-75.13917,Delaware River Basin,16.7,celsius
+1692143,Oquaga Creek,8/28/2024,river_mile,14-OQUA-0.3,42.05972,-75.42639,Delaware River Basin,20.3,celsius
+1692170,Tenmile River,8/18/1999,river_mile,14-TENR-6.0,41.63055,-74.99861,Delaware River Basin,21.6,celsius
+1692175,Tenmile River,9/2/2009,river_mile,14-TENR-6.0,41.63055,-74.99861,Delaware River Basin,14.12,celsius
+1692218,Third Brook,8/1/2019,river_mile,14-THRD-1.3,42.194798,-75.155098,Delaware River Basin,19.4,celsius
+1692327,Oquaga Creek,8/19/1999,river_mile,14-OQUA-8.9,42.10247,-75.48158,Delaware River Basin,18.7,celsius
+1692337,Oquaga Creek,9/21/2000,river_mile,14-OQUA-8.9,42.10247,-75.48158,Delaware River Basin,16.3,celsius
+1692345,Oquaga Creek,9/2/2009,river_mile,14-OQUA-8.9,42.10247,-75.48158,Delaware River Basin,16.7,celsius
+1692451,Unnamed Tributary to Oquaga Creek,9/2/2009,river_mile,14-OQUA_T23-1.2,42.19157,-75.4105,Delaware River Basin,16.399,celsius
+1692487,Pea Brook,8/18/1999,river_mile,14-PEA-0.1,41.85278,-75.1375,Delaware River Basin,18.6,celsius
+1692496,Third Brook,8/22/2019,river_mile,14-THRD-2.3,42.194798,-75.155098,Delaware River Basin,19.5,celsius
+1692511,Peaks Brook,8/19/1999,river_mile,14-PEAK-1.4,42.27028,-74.95444,Delaware River Basin,19.399,celsius
+1692540,Town Brook,7/1/1999,river_mile,14-TOWN-1.4,42.36194,-74.6625,Delaware River Basin,23.6,celsius
+1692543,Town Brook,8/5/2004,river_mile,14-TOWN-1.4,42.36194,-74.6625,Delaware River Basin,17.8,celsius
+1692563,Peas Eddy,9/2/2009,river_mile,14-PEAS-0.1,41.9461,-75.23072,Delaware River Basin,14.2,celsius
+1692729,Pine Kill,8/20/2019,river_mile,14-PINE-4.4,41.548032,-74.57116,Delaware River Basin,20.2,celsius
+1692802,Upper Neversink River,7/1/1987,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,15,celsius
+1692807,Upper Neversink River,8/25/1987,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,17.5,celsius
+1692816,Upper Neversink River,8/30/1994,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,13.3,celsius
+1692823,West Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,18,celsius
+1692825,Upper Neversink River,8/18/1999,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,16.3,celsius
+1692831,Upper Neversink River,9/20/2000,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,16.5,celsius
+1692832,West Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,11.5,celsius
+1692838,East Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,17.5,celsius
+1692839,West Branch Upper Neversink River,8/18/1999,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,17.2,celsius
+1692841,Upper Neversink River,8/3/2004,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,16.7,celsius
+1692844,East Branch Upper Neversink River,8/25/1987,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,14,celsius
+1692845,West Branch Upper Neversink River,8/3/2004,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,16.1,celsius
+1692850,Upper Neversink River,9/28/2006,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,11.7,celsius
+1692851,East Branch Upper Neversink River,8/18/1999,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,17.3,celsius
+1692860,West Branch Upper Neversink River,9/1/2009,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,14.5,celsius
+1692861,Upper Neversink River,9/1/2009,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,13.5,celsius
+1692866,East Branch Upper Neversink River,8/3/2004,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,16.6,celsius
+1692870,West Branch Upper Neversink River,9/22/2010,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,17,celsius
+1692871,Upper Neversink River,9/9/2016,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,17.5,celsius
+1692874,East Branch Upper Neversink River,9/1/2009,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,15.2,celsius
+1692876,Upper Neversink River,9/25/2017,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,16.3,celsius
+1692881,Upper Neversink River,9/21/2018,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,14.4,celsius
+1692885,West Branch Upper Neversink River,8/21/2019,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,18.2,celsius
+1692886,East Branch Upper Neversink River,9/22/2010,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,16,celsius
+1692889,Upper Neversink River,8/21/2019,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,18.3,celsius
+1692895,East Branch Upper Neversink River,8/5/2014,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,18.899,celsius
+1692898,Upper Neversink River,9/26/2019,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,13.5,celsius
+1692902,East Branch Upper Neversink River,8/21/2019,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,18,celsius
+1692906,West Branch Upper Neversink River,8/28/2024,river_mile,14-UNVR_W-0.4,41.92065,-74.5748,Delaware River Basin,15,celsius
+1692911,Upper Neversink River,9/23/2020,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,14.9,celsius
+1692916,Upper Neversink River,9/21/2021,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,14.7,celsius
+1692924,Upper Neversink River,9/28/2022,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,13.3,celsius
+1692927,Pines Brook,8/5/2014,river_mile,14-PINS-1.7,42.175525,-75.17101,Delaware River Basin,17.5,celsius
+1692932,East Branch Upper Neversink River,8/28/2024,river_mile,14-UNVR_E-0.2,41.91833,-74.57305,Delaware River Basin,14.8,celsius
+1692936,Pines Brook,8/22/2019,river_mile,14-PINS-1.7,42.175525,-75.17101,Delaware River Basin,18.1,celsius
+1692937,Upper Neversink River,9/21/2023,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,13.5,celsius
+1692947,Upper Neversink River,9/27/2024,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,15.7,celsius
+1692971,Upper Neversink River,9/26/2025,river_mile,14-UNVR-51.0,41.89305,-74.58667,Delaware River Basin,16.2,celsius
+1693008,Peas Eddy,8/28/2024,river_mile,14-PEAS-1.0,41.94648,-75.214442,Delaware River Basin,18.3,celsius
+1693012,Platte Kill,8/5/2004,river_mile,14-PLAT-0.4,42.13139,-74.69639,Delaware River Basin,16.1,celsius
+1693042,Platte Kill,9/1/2009,river_mile,14-PLAT-5.4,42.19498,-74.67671,Delaware River Basin,15,celsius
+1693073,Platner Brook,8/19/1999,river_mile,14-PLTN-1.4,42.255,-74.97667,Delaware River Basin,19.899,celsius
+1693111,Pine Mountain,8/31/2009,river_mile,14-PIMT-0.1,42.06483,-75.10475,Delaware River Basin,13,celsius
+1693132,Sheldrake Stream,8/27/2024,river_mile,14-SHEL-1.6,41.668056,-74.623056,Delaware River Basin,19.7,celsius
+1693163,Pine Kill,8/17/1999,river_mile,14-PINE-0.2,41.50278,-74.55972,Delaware River Basin,19.399,celsius
+1693177,Pine Kill,9/22/2010,river_mile,14-PINE-0.2,41.50278,-74.55972,Delaware River Basin,12.75,celsius
+1693355,Read Creek,8/18/1999,river_mile,14-READ-0.3,41.98222,-75.1686,Delaware River Basin,20.1,celsius
+1693364,Read Creek,8/4/2004,river_mile,14-READ-0.3,41.98222,-75.1686,Delaware River Basin,17.899,celsius
+1693374,Read Creek,8/28/2024,river_mile,14-READ-0.3,41.98222,-75.1686,Delaware River Basin,16.1,celsius
+1693530,Red Kill,8/5/2004,river_mile,14-REDK-0.1,42.15944,-74.55556,Delaware River Basin,17,celsius
+1693539,Red Kill,8/5/2014,river_mile,14-REDK-0.1,42.15944,-74.55556,Delaware River Basin,18.899,celsius
+1693580,Unnamed Tributary to Town Brook,8/22/2019,river_mile,14-TOWN_T11-0.2,42.354719,-74.601596,Delaware River Basin,20.1,celsius
+1693658,East Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_E-10.1,41.97417,-74.42805,Delaware River Basin,12.5,celsius
+1693666,East Branch Upper Neversink River,8/25/1987,river_mile,14-UNVR_E-10.1,41.97417,-74.42805,Delaware River Basin,12.5,celsius
+1693713,Sheldrake Stream,8/17/1999,river_mile,14-SHEL-1.9,41.67083,-74.62611,Delaware River Basin,23.3,celsius
+1693739,Robertson Farm Tributary,7/3/1996,river_mile,14-ROBT-2.8,42.3813,-74.8267,Delaware River Basin,19.6,celsius
+1693746,Robertson Farm Tributary,7/1/1997,river_mile,14-ROBT-2.8,42.3813,-74.8267,Delaware River Basin,18,celsius
+1693750,Robertson Farm Tributary,7/1/1999,river_mile,14-ROBT-2.8,42.3813,-74.8267,Delaware River Basin,20.2,celsius
+1693761,Robertson Farm Tributary,6/29/2000,river_mile,14-ROBT-2.8,42.3813,-74.8267,Delaware River Basin,19.1,celsius
+1693768,East Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_E-3.3,41.935,-74.53,Delaware River Basin,15.5,celsius
+1693776,Robertson Farm Tributary,7/1/2003,river_mile,14-ROBT-2.8,42.3813,-74.8267,Delaware River Basin,15.5,celsius
+1693778,East Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_E-3.3,41.935,-74.53,Delaware River Basin,12,celsius
+1693791,East Branch Upper Neversink River,7/30/1999,river_mile,14-UNVR_E-3.3,41.935,-74.53,Delaware River Basin,16.8,celsius
+1693815,East Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_E-7.3,41.95867,-74.47364,Delaware River Basin,14,celsius
+1693825,East Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_E-7.3,41.95867,-74.47364,Delaware River Basin,11,celsius
+1693844,West Branch Delaware River,6/4/1974,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,20.5,celsius
+1693856,West Branch Delaware River,8/14/1974,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,17,celsius
+1693860,West Branch Delaware River,9/17/1974,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,18.5,celsius
+1693862,Unnamed Tributary to Sheldrake Stream,9/1/2009,river_mile,14-SHEL_T4-0.6,41.71941,-74.64286,Delaware River Basin,15.22,celsius
+1693876,West Branch Delaware River,6/9/1981,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,20.5,celsius
+1693896,East Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_E-8.3,41.96333,-74.45528,Delaware River Basin,13,celsius
+1693901,East Branch Upper Neversink River,8/25/1987,river_mile,14-UNVR_E-8.3,41.96333,-74.45528,Delaware River Basin,14,celsius
+1693908,East Branch Upper Neversink River,7/29/1999,river_mile,14-UNVR_E-8.3,41.96333,-74.45528,Delaware River Basin,17,celsius
+1693918,West Branch Delaware River,7/14/1981,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,19,celsius
+1693927,West Branch Delaware River,8/18/1981,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14,celsius
+1693937,Roods Creek,8/19/1999,river_mile,14-ROOD-0.2,42.00555,-75.35777,Delaware River Basin,16,celsius
+1693941,Roods Creek,8/22/2019,river_mile,14-ROOD-0.2,42.00555,-75.35777,Delaware River Basin,19.4,celsius
+1693943,West Branch Delaware River,9/22/1981,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14.5,celsius
+1693947,West Branch Delaware River,5/26/1987,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14.5,celsius
+1693954,West Branch Delaware River,6/30/1987,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,19,celsius
+1693956,Unnamed TributaryTo Town Brook,8/1/2019,river_mile,14-TOWN_T12-0.2,42.354719,-74.601596,Delaware River Basin,21,celsius
+1693969,West Branch Delaware River,8/3/1987,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,16.5,celsius
+1693976,West Branch Delaware River,9/8/1987,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14.5,celsius
+1693995,West Branch Delaware River,9/2/1993,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,13.1,celsius
+1693998,West Branch Delaware River,8/31/1994,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14.9,celsius
+1694001,West Branch Delaware River,8/18/1999,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,14.6,celsius
+1694006,West Branch Delaware River,9/21/2000,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,15.8,celsius
+1694012,West Branch Delaware River,8/4/2004,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,18.5,celsius
+1694018,West Branch Delaware River,9/6/2005,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,15,celsius
+1694023,West Branch Delaware River,9/27/2006,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,10.9,celsius
+1694030,Shingle Kill,8/17/1999,river_mile,14-SHNG-0.8,41.41278,-74.72945,Delaware River Basin,19.7,celsius
+1694035,West Branch Delaware River,9/2/2009,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,13,celsius
+1694038,Shingle Kill,8/6/2014,river_mile,14-SHNG-0.8,41.41278,-74.72945,Delaware River Basin,21.18,celsius
+1694048,West Branch Delaware River,8/7/2014,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,12.5,celsius
+1694067,West Branch Delaware River,8/21/2019,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,15.9,celsius
+1694075,West Branch Delaware River,8/28/2024,river_mile,14-WDEL-1.3,41.9525,-75.29166,Delaware River Basin,15.9,celsius
+1694270,Rose Brook,9/30/1999,river_mile,14-ROSE-1.1,42.3351,-74.739,Delaware River Basin,13.5,celsius
+1694282,Rose Brook,8/5/2004,river_mile,14-ROSE-1.1,42.3351,-74.739,Delaware River Basin,18.2,celsius
+1694289,Rose Brook,8/29/2024,river_mile,14-ROSE-1.1,42.3351,-74.739,Delaware River Basin,17.5,celsius
+1694363,Trout Brook,8/18/1999,river_mile,14-TRBR-0.1,41.97944,-75.09694,Delaware River Basin,20.5,celsius
+1694369,Trout Brook,8/28/2024,river_mile,14-TRBR-0.1,41.97944,-75.09694,Delaware River Basin,17.7,celsius
+1694410,West Branch Upper Neversink River,8/28/2024,river_mile,14-UNVR_W-11.7,42.00861,-74.4275,Delaware River Basin,13.2,celsius
+1694415,Unnamed Tributary to Sherruck Brook,8/4/2010,river_mile,14-SHRB_T2-0.2,42.18883,-75.31474,Delaware River Basin,16.07,celsius
+1694421,Unnamed Tributary to Sherruck Brook,10/27/2010,river_mile,14-SHRB_T2-0.2,42.18883,-75.31474,Delaware River Basin,11.31,celsius
+1694440,Unnamed Tributary to Sherruck Brook,5/10/2011,river_mile,14-SHRB_T2-0.2,42.18883,-75.31474,Delaware River Basin,10.31,celsius
+1694449,Unnamed Tributary to Sherruck Brook,8/3/2011,river_mile,14-SHRB_T2-0.2,42.18883,-75.31474,Delaware River Basin,15.71,celsius
+1694505,Tremper Kill,8/19/1999,river_mile,14-TRMP-3.1,42.12556,-74.81193,Delaware River Basin,18.8,celsius
+1694508,Tremper Kill,8/5/2004,river_mile,14-TRMP-3.1,42.12556,-74.81193,Delaware River Basin,16.899,celsius
+1694512,Tremper Kill,9/1/2009,river_mile,14-TRMP-3.1,42.12556,-74.81193,Delaware River Basin,17.7,celsius
+1694545,Russell Brook,8/18/1999,river_mile,14-RSLL-0.1,41.95806,-74.9911,Delaware River Basin,17.5,celsius
+1694547,Sands Creek,8/19/1999,river_mile,14-SNDS-0.1,41.95611,-75.29694,Delaware River Basin,17,celsius
+1694553,Russell Brook,8/28/2024,river_mile,14-RSLL-0.1,41.95806,-74.9911,Delaware River Basin,15.2,celsius
+1694555,Trout Brook,8/19/1999,river_mile,14-TROT-0.2,42.04167,-75.06805,Delaware River Basin,15.7,celsius
+1694574,Sands Creek,8/4/2004,river_mile,14-SNDS-0.1,41.95611,-75.29694,Delaware River Basin,18.3,celsius
+1694612,Trout Creek,7/28/1998,river_mile,14-TRUT-1.2,42.17389,-75.28,Delaware River Basin,17.6,celsius
+1694618,Trout Creek,8/19/1999,river_mile,14-TRUT-1.2,42.17389,-75.28,Delaware River Basin,20.1,celsius
+1694623,Sprague Brook,8/18/1999,river_mile,14-SPRA-0.2,41.90028,-74.78721,Delaware River Basin,17.8,celsius
+1694668,Sand Pond Creek,8/4/2004,river_mile,14-SANP-0.4,42.00167,-75.395,Delaware River Basin,18.2,celsius
+1694786,West Branch Delaware River,9/27/2006,river_mile,14-WDEL-13.3,42.045,-75.42083,Delaware River Basin,8.8,celsius
+1694797,West Branch Delaware River,9/2/2009,river_mile,14-WDEL-13.3,42.045,-75.42083,Delaware River Basin,13.6,celsius
+1694878,Unnamed Tributary to West Branch Delaware River,7/3/1996,river_mile,14-SHAW-0.8,42.35389,-74.74611,Delaware River Basin,15.1,celsius
+1694884,Unnamed Tributary to West Branch Delaware River,7/1/1997,river_mile,14-SHAW-0.8,42.35389,-74.74611,Delaware River Basin,17.8,celsius
+1694887,Unnamed Tributary to West Branch Delaware River,7/1/1999,river_mile,14-SHAW-0.8,42.35389,-74.74611,Delaware River Basin,18,celsius
+1694890,Unnamed Tributary to West Branch Delaware River,6/29/2000,river_mile,14-SHAW-0.8,42.35389,-74.74611,Delaware River Basin,15.3,celsius
+1694898,Unnamed Tributary to West Branch Delaware River,7/1/2003,river_mile,14-SHAW-0.8,42.35389,-74.74611,Delaware River Basin,13.3,celsius
+1694922,West Branch Delaware River,8/4/2004,river_mile,14-WDEL-14.6,42.06253,-75.41569,Delaware River Basin,12,celsius
+1694927,West Branch Delaware River,8/7/2014,river_mile,14-WDEL-14.6,42.06253,-75.41569,Delaware River Basin,10.52,celsius
+1694932,Unnamed Tributary to West Branch Delaware River,7/3/1996,river_mile,14-SHAW-0.9,42.355,-74.74583,Delaware River Basin,15.1,celsius
+1694937,Sprague Brook,8/28/2024,river_mile,14-SPRA-1.6,41.917565,-74.777831,Delaware River Basin,17.6,celsius
+1695027,Sheldrake Stream,8/20/1987,river_mile,14-SHEL-0.1,41.65528,-74.61083,Delaware River Basin,22,celsius
+1695037,Sheldrake Stream,8/3/2004,river_mile,14-SHEL-0.1,41.65528,-74.61083,Delaware River Basin,25.6,celsius
+1695047,Sheldrake Stream,9/7/2005,river_mile,14-SHEL-0.1,41.65528,-74.61083,Delaware River Basin,16.7,celsius
+1695385,West Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_W-12.5,42.01111,-74.41389,Delaware River Basin,12.5,celsius
+1695390,West Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_W-12.5,42.01111,-74.41389,Delaware River Basin,11,celsius
+1695394,West Branch Upper Neversink River,9/1/2009,river_mile,14-UNVR_W-12.5,42.01111,-74.41389,Delaware River Basin,17,celsius
+1695400,West Branch Upper Neversink River,8/5/2014,river_mile,14-UNVR_W-12.5,42.01111,-74.41389,Delaware River Basin,12.3,celsius
+1695405,West Branch Upper Neversink River,8/21/2019,river_mile,14-UNVR_W-12.5,42.01111,-74.41389,Delaware River Basin,15.2,celsius
+1695467,West Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_W-5.9,41.97417,-74.52056,Delaware River Basin,17,celsius
+1695472,West Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_W-5.9,41.97417,-74.52056,Delaware River Basin,14,celsius
+1695515,West Branch Upper Neversink River,7/1/1987,river_mile,14-UNVR_W-8.3,41.990556,-74.484722,Delaware River Basin,15,celsius
+1695520,West Branch Upper Neversink River,8/26/1987,river_mile,14-UNVR_W-8.3,41.990556,-74.484722,Delaware River Basin,14.5,celsius
+1695523,West Branch Upper Neversink River,7/30/1999,river_mile,14-UNVR_W-8.3,41.990556,-74.484722,Delaware River Basin,18.6,celsius
+1695568,Vly Creek,7/27/1995,river_mile,14-VLY-0.2,42.15556,-74.52611,Delaware River Basin,21.7,celsius
+1695576,Vly Creek,8/5/2004,river_mile,14-VLY-0.2,42.15556,-74.52611,Delaware River Basin,17.399,celsius
+1695654,Vly Creek,7/25/1995,river_mile,14-VLY-0.5,42.15639,-74.5225,Delaware River Basin,21.6,celsius
+1695662,Vly Creek,9/1/2009,river_mile,14-VLY-0.5,42.15639,-74.5225,Delaware River Basin,11.7,celsius
+1695676,Vly Creek,7/25/1995,river_mile,14-VLY-1.1,42.165,-74.52084,Delaware River Basin,17.5,celsius
+1696507,West Branch Delaware River,8/26/1986,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,16,celsius
+1696514,West Branch Delaware River,5/26/1987,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,14.5,celsius
+1696518,West Branch Delaware River,6/30/1987,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,24,celsius
+1696525,West Branch Delaware River,8/3/1987,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,18,celsius
+1696535,West Branch Delaware River,9/8/1987,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,20,celsius
+1696544,West Branch Delaware River,7/14/1988,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,23,celsius
+1696548,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,18.399,celsius
+1696553,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,5.6,celsius
+1696567,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,20,celsius
+1696575,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,3.7,celsius
+1696578,West Branch Delaware River,8/31/2009,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,16,celsius
+1696581,West Branch Delaware River,8/7/2014,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,20.7,celsius
+1696584,West Branch Delaware River,8/22/2019,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,21.2,celsius
+1696588,West Branch Delaware River,8/29/2024,river_mile,14-WDEL-51.0,42.20917,-74.97417,Delaware River Basin,19,celsius
+1696926,West Branch Delaware River,8/26/1986,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,10,celsius
+1696930,West Branch Delaware River,9/30/1999,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,13.8,celsius
+1696934,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,14.3,celsius
+1696940,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,3.7,celsius
+1696946,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,14.3,celsius
+1696951,West Branch Delaware River,8/5/2004,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,18.5,celsius
+1696959,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,1.5,celsius
+1696964,West Branch Delaware River,8/31/2009,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,14.8,celsius
+1696974,West Branch Delaware River,9/22/2010,river_mile,14-WDEL-75.7,42.37278,-74.66722,Delaware River Basin,13.17,celsius
+1697213,Willowemoc Creek,7/28/1993,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,26.1,celsius
+1697215,Willowemoc Creek,7/27/1994,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,18.5,celsius
+1697220,Willowemoc Creek,8/30/1994,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,18,celsius
+1697236,Willowemoc Creek,8/18/1999,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,24,celsius
+1697257,Willowemoc Creek,9/7/2005,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,17,celsius
+1697263,Willowemoc Creek,9/1/2009,river_mile,14-WILL-0.5,41.93028,-74.91527,Delaware River Basin,17.3,celsius
+1697400,West Branch Delaware River,6/4/1974,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,20.2,celsius
+1697417,West Branch Delaware River,8/14/1974,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,9.2,celsius
+1697422,West Branch Delaware River,9/17/1974,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,11,celsius
+1697427,West Branch Delaware River,6/9/1981,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,12,celsius
+1697435,West Branch Delaware River,7/14/1981,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,7.5,celsius
+1697449,West Branch Delaware River,8/18/1981,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,9,celsius
+1697456,West Branch Delaware River,9/22/1981,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,15,celsius
+1697463,West Branch Delaware River,8/26/1986,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,21,celsius
+1697467,West Branch Delaware River,8/19/1999,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,11.6,celsius
+1697471,West Branch Delaware River,9/27/2006,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,8.1,celsius
+1697502,West Branch Delaware River,4/14/2021,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,5.2,celsius
+1697508,West Branch Delaware River,6/16/2021,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,8.1,celsius
+1697510,West Branch Delaware River,8/17/2021,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,9.2,celsius
+1697513,West Branch Delaware River,10/20/2021,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,16.5,celsius
+1697544,West Branch Delaware River,4/12/2022,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,4.4,celsius
+1697548,West Branch Delaware River,6/14/2022,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,8.7,celsius
+1697550,West Branch Delaware River,8/16/2022,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,9.3,celsius
+1697552,West Branch Delaware River,10/18/2022,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,12.6,celsius
+1697554,West Branch Delaware River,4/18/2023,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,4.8,celsius
+1697567,West Branch Delaware River,6/14/2023,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,6.6,celsius
+1697568,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-79.3,42.40917,-74.62111,Delaware River Basin,15.6,celsius
+1697573,West Branch Delaware River,8/16/2023,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,9.5,celsius
+1697575,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-79.3,42.40917,-74.62111,Delaware River Basin,3.6,celsius
+1697582,West Branch Delaware River,10/18/2023,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,12.4,celsius
+1697583,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-79.3,42.40917,-74.62111,Delaware River Basin,16,celsius
+1697590,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-79.3,42.40917,-74.62111,Delaware River Basin,1.1,celsius
+1697593,West Brook,8/19/1999,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,17.1,celsius
+1697597,West Brook,8/5/2004,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,16,celsius
+1697598,West Branch Delaware River,4/23/2024,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,6.8,celsius
+1697602,West Brook,8/5/2014,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,19,celsius
+1697604,West Branch Delaware River,6/11/2024,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,6.9,celsius
+1697607,West Branch Delaware River,8/20/2024,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,8.9,celsius
+1697611,West Branch Delaware River,10/22/2024,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,15.3,celsius
+1697639,West Brook,4/13/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,19.7,celsius
+1697643,West Brook,5/4/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,19.1,celsius
+1697647,West Brook,6/8/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,21,celsius
+1697652,West Branch Delaware River,4/23/2025,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,6.8,celsius
+1697655,West Brook,7/27/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,26.1,celsius
+1697660,West Brook,8/25/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,19,celsius
+1697661,West Branch Delaware River,6/10/2025,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,19,celsius
+1697665,West Brook,10/19/2015,river_mile,14-WSTB-1.1,42.1775,-75.12778,Delaware River Basin,21.9,celsius
+1697677,West Branch Delaware River,10/15/2025,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,15.3,celsius
+1697679,Willowemoc Creek,4/15/2015,river_mile,14-WILL-3.2,41.92639,-74.87526,Delaware River Basin,21,celsius
+1697681,West Branch Delaware River,4/22/2026,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,6.9,celsius
+1697685,Willowemoc Creek,5/6/2015,river_mile,14-WILL-3.2,41.92639,-74.87526,Delaware River Basin,24.1,celsius
+1697688,Willowemoc Creek,6/10/2015,river_mile,14-WILL-3.2,41.92639,-74.87526,Delaware River Basin,21.2,celsius
+1697692,West Branch Delaware River,6/9/2026,river_mile,14-WDEL-16.2,42.08,-75.40138,Delaware River Basin,8.2,celsius
+1697695,Willowemoc Creek,7/29/2015,river_mile,14-WILL-3.2,41.92639,-74.87526,Delaware River Basin,26.6,celsius
+1697700,Willowemoc Creek,10/21/2015,river_mile,14-WILL-3.2,41.92639,-74.87526,Delaware River Basin,19.5,celsius
+1697733,West Branch Delaware River,6/4/1974,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,21,celsius
+1697736,West Branch Delaware River,8/14/1974,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,14.5,celsius
+1697744,West Branch Delaware River,9/17/1974,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,16.5,celsius
+1697748,West Branch Delaware River,6/9/1981,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,19.5,celsius
+1697749,West Branch Delaware River,7/14/1981,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,15,celsius
+1697751,West Branch Delaware River,8/18/1981,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,10,celsius
+1697757,West Branch Delaware River,9/22/1981,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,15,celsius
+1697772,West Branch Delaware River,7/14/1988,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,11,celsius
+1697779,West Branch Delaware River,9/27/2006,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,9.6,celsius
+1697786,West Branch Delaware River,8/7/2014,river_mile,14-WDEL-9.5,42.00331,-75.3847,Delaware River Basin,10.81,celsius
+1697895,West Branch Delaware River,7/28/1999,river_mile,14-WDEL-65.4,42.32861,-74.81582,Delaware River Basin,23.4,celsius
+1697902,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-65.4,42.32861,-74.81582,Delaware River Basin,15.5,celsius
+1697905,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-65.4,42.32861,-74.81582,Delaware River Basin,4.2,celsius
+1697908,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-65.4,42.32861,-74.81582,Delaware River Basin,16,celsius
+1697912,Unnamed Tributary to West Branch Delaware River,9/1/2009,river_mile,14-WDEL_T33-0.4,42.15043,-75.18153,Delaware River Basin,12.97,celsius
+1697917,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-65.4,42.32861,-74.81582,Delaware River Basin,2.4,celsius
+1697960,West Branch Delaware River,8/31/2009,river_mile,14-WDEL-68.4,42.3396,-74.76609,Delaware River Basin,15.8,celsius
+1697987,West Branch Delaware River,8/31/2009,river_mile,14-WDEL-75.3,42.3709,-74.6718,Delaware River Basin,15.9,celsius
+1697997,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,17.6,celsius
+1698002,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,5.2,celsius
+1698007,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,21,celsius
+1698012,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,2.7,celsius
+1698020,West Branch Delaware River,8/7/2014,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,19.399,celsius
+1698030,West Branch Delaware River,4/13/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,19.8,celsius
+1698038,West Branch Delaware River,5/4/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,19.2,celsius
+1698046,West Branch Delaware River,6/8/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,20.9,celsius
+1698050,West Branch Delaware River,7/27/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,27.1,celsius
+1698054,West Branch Delaware River,9/3/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,19.84,celsius
+1698059,West Branch Delaware River,10/19/2015,river_mile,14-WDEL-56.4,42.25972,-74.9286,Delaware River Basin,20.6,celsius
+1698076,West Brook,8/19/1999,river_mile,14-WSTB-2.8,42.19861,-75.12083,Delaware River Basin,17.6,celsius
+1698091,Wynkoop Brook,8/17/1999,river_mile,14-WYNK-0.2,41.792,-74.61549,Delaware River Basin,17.399,celsius
+1698138,Willowemoc Creek,7/28/1993,river_mile,14-WILL-4.9,41.92889,-74.84721,Delaware River Basin,22.4,celsius
+1698143,Willowemoc Creek,7/27/1994,river_mile,14-WILL-4.9,41.92889,-74.84721,Delaware River Basin,17.6,celsius
+1698148,Willowemoc Creek,8/18/1999,river_mile,14-WILL-4.9,41.92889,-74.84721,Delaware River Basin,21.5,celsius
+1698163,West Branch Delaware River,8/26/1986,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,20,celsius
+1698171,Willsey Brook,8/20/2019,river_mile,14-WILB-0.2,41.572375,-74.477288,Delaware River Basin,18,celsius
+1698174,West Branch Delaware River,7/28/1999,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,23.3,celsius
+1698177,West Branch Delaware River,8/19/1999,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,19.5,celsius
+1698180,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,18.1,celsius
+1698187,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,7.5,celsius
+1698205,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,23,celsius
+1698212,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,4.5,celsius
+1698218,West Branch Delaware River,9/27/2006,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,11.8,celsius
+1698223,West Branch Delaware River,9/1/2009,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,15.61,celsius
+1698230,West Branch Delaware River,8/5/2014,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,23.4,celsius
+1698239,West Branch Delaware River,4/13/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,19.7,celsius
+1698247,West Branch Delaware River,5/4/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,18.8,celsius
+1698250,West Branch Delaware River,6/8/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,21.1,celsius
+1698254,West Branch Delaware River,7/27/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,26,celsius
+1698259,West Branch Delaware River,9/3/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,21.25,celsius
+1698262,West Branch Delaware River,10/19/2015,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,21.6,celsius
+1698266,West Branch Delaware River,8/21/2019,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,24.8,celsius
+1698270,West Branch Delaware River,8/29/2024,river_mile,14-WDEL-35.4,42.12861,-75.16054,Delaware River Basin,19.4,celsius
+1698348,West Branch Delaware River,8/26/1986,river_mile,14-WDEL-57.5,42.27472,-74.91666,Delaware River Basin,15,celsius
+1698353,West Branch Delaware River,7/14/1988,river_mile,14-WDEL-57.5,42.27472,-74.91666,Delaware River Basin,22,celsius
+1698357,West Branch Delaware River,8/19/1999,river_mile,14-WDEL-57.5,42.27472,-74.91666,Delaware River Basin,23.2,celsius
+1698364,West Branch Delaware River,9/6/2005,river_mile,14-WDEL-57.5,42.27472,-74.91666,Delaware River Basin,16.2,celsius
+1698500,Unnamed Tributary to Batavia Kill,8/29/2024,river_mile,14-BATK_T11-0.5,42.279687,-74.509532,Delaware River Basin,14.4,celsius
+1698554,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-40.2,42.16667,-75.12999,Delaware River Basin,18.3,celsius
+1698560,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-40.2,42.16667,-75.12999,Delaware River Basin,6.7,celsius
+1698567,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-40.2,42.16667,-75.12999,Delaware River Basin,19.1,celsius
+1698576,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-40.2,42.16667,-75.12999,Delaware River Basin,4.3,celsius
+1698579,West Branch Delaware River,8/5/2014,river_mile,14-WDEL-40.2,42.16667,-75.12999,Delaware River Basin,21.5,celsius
+1698687,Willowemoc Creek,7/28/1993,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,18.1,celsius
+1698690,West Branch Delaware River,9/2/1993,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,19,celsius
+1698692,Willowemoc Creek,7/27/1994,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,16.2,celsius
+1698696,West Branch Delaware River,8/31/1994,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,15.4,celsius
+1698699,Willowemoc Creek,8/18/1999,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,19.1,celsius
+1698700,West Branch Delaware River,7/28/1999,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,25.1,celsius
+1698704,Willowemoc Creek,9/1/2009,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,11.3,celsius
+1698705,West Branch Delaware River,9/20/2000,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,18.1,celsius
+1698709,Willowemoc Creek,8/21/2019,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,19.8,celsius
+1698711,West Branch Delaware River,3/30/2004,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,5.8,celsius
+1698714,West Branch Delaware River,7/1/2004,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,19.7,celsius
+1698716,West Branch Delaware River,11/10/2004,river_mile,14-WDEL-47.3,42.175,-75.01778,Delaware River Basin,3.2,celsius
+1698724,Willowemoc Creek,8/28/2024,river_mile,14-WILL-14.5,41.91111,-74.72444,Delaware River Basin,16.4,celsius
+1698737,West Branch Delaware River,8/31/2009,river_mile,14-WDEL-49.5,42.19577,-74.98856,Delaware River Basin,16.3,celsius
+1698763,Chambers Hollow,8/29/2024,river_mile,14-CHMH-0.9,42.186096,-75.016721,Delaware River Basin,16.2,celsius
+1698932,Willowemoc Creek,7/28/1993,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,22.4,celsius
+1698935,Willowemoc Creek,7/27/1994,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,17.899,celsius
+1698940,Willowemoc Creek,8/4/2004,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,20.399,celsius
+1698946,Willowemoc Creek,9/1/2009,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,17.399,celsius
+1698951,Willowemoc Creek,8/6/2014,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,17.1,celsius
+1698955,Willowemoc Creek,8/21/2019,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,21.6,celsius
+1698960,Willowemoc Creek,8/28/2024,river_mile,14-WILL-6.4,41.91453,-74.83163,Delaware River Basin,20.8,celsius
+1698961,Fir Brook,8/28/2024,river_mile,14-FIRB-0.6,41.919443,-74.648117,Delaware River Basin,16.5,celsius
+1699014,Willowemoc Creek,7/28/1993,river_mile,14-WILL-8.6,41.90361,-74.81361,Delaware River Basin,19.399,celsius
+1699017,Willowemoc Creek,7/27/1994,river_mile,14-WILL-8.6,41.90361,-74.81361,Delaware River Basin,17,celsius
+1699109,Unnamed Tributary to Willowemoc Creek,9/1/2009,river_mile,14-WILL_T10-0.2,41.90505,-74.79385,Delaware River Basin,12,celsius
+1699189,Willowemoc Creek,7/28/1993,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,16.1,celsius
+1699193,Willowemoc Creek,8/3/2004,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,18.1,celsius
+1699196,Willowemoc Creek,9/1/2009,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,12.4,celsius
+1699199,Willowemoc Creek,8/5/2014,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,19.8,celsius
+1699202,Willowemoc Creek,8/21/2019,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,18.2,celsius
+1699206,Willowemoc Creek,8/28/2024,river_mile,14-WILL-18.3,41.91808,-74.67069,Delaware River Basin,15.7,celsius
+1699233,Willowemoc Creek,7/28/1993,river_mile,14-WILL-21.1,41.9394,-74.6478,Delaware River Basin,14,celsius
+1699348,unnamed Tributary to Fish Creek,8/28/2024,river_mile,14-FSED_T04-0.1,41.947455,-75.14228,Delaware River Basin,14.8,celsius
+1699359,Willowemoc Creek,7/28/1993,river_mile,14-WILL-3.1,41.92441,-74.87637,Delaware River Basin,23.2,celsius
+1699360,Kerrs Brook,8/29/2024,river_mile,14-WKERR-3.1,42.2249,-75.16419,Delaware River Basin,16.6,celsius
+1699362,Willowemoc Creek,7/27/1994,river_mile,14-WILL-3.1,41.92441,-74.87637,Delaware River Basin,18,celsius
+1699363,Willowemoc Creek,8/6/2014,river_mile,14-WILL-3.1,41.92441,-74.87637,Delaware River Basin,17.7,celsius
+1699364,Willowemoc Creek,8/26/2015,river_mile,14-WILL-3.1,41.92441,-74.87637,Delaware River Basin,18.02,celsius
+1699366,Willowemoc Creek,8/21/2019,river_mile,14-WILL-3.1,41.92441,-74.87637,Delaware River Basin,21.8,celsius
+1699439,White Lake Brook,8/27/2024,river_mile,14-WLAK-3.4,41.659034,-74.806785,Delaware River Basin,22.7,celsius
+1699455,White Lake Brook,8/17/1999,river_mile,14-WLAK-5.1,41.66611,-74.81972,Delaware River Basin,25.6,celsius
+1699548,White Lake Brook,8/20/2019,river_mile,14-WLAK-5.8,41.6747,-74.8196,Delaware River Basin,27.2,celsius
+1699591,Wolf Hollow,8/5/2010,river_mile,14-WOFH-1.2,42.15028,-74.81598,Delaware River Basin,18.84,celsius
+1699592,Hemp Meadow Brook,8/27/2024,river_mile,14-HMBR-1.6,41.62761,-74.815965,Delaware River Basin,20.2,celsius
+1699593,Wolf Hollow,10/28/2010,river_mile,14-WOFH-1.2,42.15028,-74.81598,Delaware River Basin,9.76,celsius
+1699594,Wolf Hollow,5/11/2011,river_mile,14-WOFH-1.2,42.15028,-74.81598,Delaware River Basin,10.26,celsius
+1699596,Wolf Hollow,8/2/2011,river_mile,14-WOFH-1.2,42.15028,-74.81598,Delaware River Basin,19,celsius
+1699606,Wright Brook,9/30/1999,river_mile,14-WRIT-1.6,42.3497,-74.80639,Delaware River Basin,13.8,celsius
+1699676,Horseshoe Brook,8/27/2024,river_mile,14-HORB-1.9,41.823218,-74.844296,Delaware River Basin,16.1,celsius
+1699742,Mellis Brook,8/29/2024,river_mile,14-MELB-0.1,42.098251,-75.01003,Delaware River Basin,16.2,celsius
