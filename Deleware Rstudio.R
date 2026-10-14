@@ -1,11 +1,12 @@
+setwd("C:/Projects/Deleware")
 library(sf)
 library(SSN2)
 library(SSNbler)
 library(parallel)
 library(dplyr)
 # Step 1:
-watershed <- st_read("drbbnd/drb_bnd_polygon.shp")
-flowlines <- st_read("Deleware QGIS/Deleware Clipped.gpkg")
+watershed <- st_read("C:/Projects/Deleware/drbbnd/drb_bnd_polygon.shp")
+flowlines <- st_read("C:/Projects/Deleware/Deleware QGIS/Deleware Clipped.gpkg")
 
 st_crs(watershed)
 st_crs(flowlines)
@@ -49,7 +50,7 @@ num.cores<- detectCores() -1
   #use_parallel = TRUE,
   #no_cores = num.cores
 
-clean_flowlines <- st_read("Deleware QGIS/cleaned_flowlines_V2.gpkg")
+clean_flowlines <- st_read("C:/Projects/Deleware/Deleware QGIS/cleaned_flowlines_V2.gpkg")
 clean_flowlines <- st_cast(clean_flowlines, "LINESTRING")
 lsn_path2 <- "LSN_Deleware_CLEANED_V2.ssn"
 
@@ -68,7 +69,7 @@ edges_clean <- lines_to_lsn(
 
 # Step 3: Import Data
 
-ny_dow <- read.csv("NY_DOW_Chemistry_Table.csv")
+ny_dow <- read.csv(ny_path)
 ecosheds <- read.csv("EcoSHEDS_file.csv")
 
 print("NY DOW Columns:")
@@ -188,17 +189,18 @@ SSN2::ssn_create_distmat(
 
 summary(my_ssn)
 # Step 11: Attach summer temperature summaries
-site_match <- match(
-  as.character(my_ssn$obs$Site_ID),
-  as.character(site_temp$SITE_CODE)
-)
+#site_match <- match(
+  #as.character(my_ssn$obs$Site_ID),
+ # as.character(site_temp$SITE_CODE)
+#)
 
-site_match[my_ssn$obs$Source != "NY_DOW"] <- NA_integer_
+#site_match[my_ssn$obs$Source != "NY_DOW"] <- NA_integer_
 
-my_ssn$obs$Summer_Temp_C <- site_temp$Summer_Temp_C[site_match]
-my_ssn$obs$Sampling_Days <- site_temp$Sampling_Days[site_match]
+#my_ssn$obs$Summer_Temp_C <- site_temp$Summer_Temp_C[site_match]
+#my_ssn$obs$Sampling_Days <- site_temp$Sampling_Days[site_match]
 
-sum(!is.na(my_ssn$obs$Summer_Temp_C))
+#sum(!is.na(my_ssn$obs$Summer_Temp_C))
+
 # Step 12: Combine EcoSHEDS batches
 eco_folder <- "C:/Projects/Deleware/EcoShedsTemperatureData"
 
@@ -560,7 +562,7 @@ baseline_cv <- SSN2::loocv(eco_baseline)
 print(baseline_cv, width = Inf)
 print(eco_cv, width = Inf)
 # Step 26: Inspect model diagnostics
-plot(eco_fit)
+# plot(eco_fit)
 # Step 27: Inspect coldest sites
 site_check <- sf::st_drop_geometry(eco_ssn$obs)
 
@@ -601,4 +603,118 @@ plot(
   pch = 20,
   cex = 1.2,
   main = "Observed summer temperature averages, 2020–2025"
+)
+# Step 30: Join measurements to station coordinates
+station_coords <- unique(
+  eco_stations[c("location_id", "latitude", "longitude")]
+)
+
+stopifnot(!anyDuplicated(station_coords$location_id))
+
+station_coords$latitude <- as.numeric(station_coords$latitude)
+station_coords$longitude <- as.numeric(station_coords$longitude)
+
+eco_measurements_coords <- dplyr::left_join(
+  eco_values,
+  station_coords,
+  by = "location_id"
+)
+
+stopifnot(
+  nrow(eco_measurements_coords) == nrow(eco_values),
+  all(is.finite(eco_measurements_coords$latitude)),
+  all(is.finite(eco_measurements_coords$longitude))
+)
+
+write.csv(
+  eco_measurements_coords,
+  "C:/Projects/Deleware/EcoSHEDS_Measurements_Coordinates.csv",
+  row.names = FALSE
+)
+
+# Step 31: Load pred points
+
+pred_points <- sf::st_read(
+  "C:/Projects/Deleware/mid-atlantic-preds/delaware-pred-points.shp"
+)
+
+pred_points <- sf::st_transform(
+  pred_points,
+  sf::st_crs(edges_afv)
+)
+# Step 32: Snap pred points
+
+eco_preds <- SSNbler::sites_to_lsn(
+  sites = pred_points,
+  edges = edges_afv,
+  lsn_path = lsn_path2,
+  file_name = "eco_preds",
+  snap_tolerance = 100,
+  overwrite = TRUE
+)
+
+eco_preds_updist <- SSNbler::updist_sites(
+  sites = list(preds = eco_preds),
+  edges = edges_afv,
+  length_col = "Length",
+  lsn_path = lsn_path2
+)
+
+eco_preds_afv <- SSNbler::afv_sites(
+  sites = eco_preds_updist,
+  edges = edges_afv,
+  afv_col = "afvArea",
+  lsn_path = lsn_path2,
+  overwrite = TRUE
+)
+
+
+# Step 33: Assemble Spatial Stream Net w/ pred points
+eco_pred_ssn <- SSNbler::ssn_assemble(
+  edges = edges_afv,
+  lsn_path = lsn_path2,
+  obs_sites = eco_model_sites,
+  preds_list = eco_preds_afv["preds"],
+  ssn_path = file.path(
+    getwd(),
+    "Delaware_EcoSHEDS_Predictions.ssn"
+  ),
+  afv_col = "afvArea",
+  import = TRUE,
+  overwrite = TRUE
+)
+SSN2::ssn_create_distmat(
+  ssn.object = eco_pred_ssn,
+  predpts = "preds",
+  among_predpts = FALSE,
+  overwrite = TRUE
+)
+
+# Step 34: Temp Predictions
+eco_predictions<-SSN2::augment(
+  eco_pred_fit,
+  newdata="preds",
+  type.predict="response"
+)
+library(ggplot2)
+
+temperature_plot<-ggplot()+
+  geom_sf(data=edges_afv,color="gray70")+
+  geom_sf(
+    data = eco_predictions,
+    aes(color = .fitted),
+    size = 1
+  ) +
+  scale_color_viridis_c(option = "H") +
+  labs(
+    title = "Predicted Summer Stream Temperatures",
+    color = "Temperature (°C)"
+  ) +
+  theme_bw()
+
+print(temperature_plot)
+sf::st_write(
+  eco_predictions,
+  "C:/Projects/Deleware/EcoSHEDS_Predicted_Temperatures.gpkg",
+  delete_dsn = TRUE
 )
