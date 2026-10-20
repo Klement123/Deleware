@@ -1,9 +1,12 @@
 setwd("C:/Projects/Deleware")
+setwd("C:/Projects/Deleware")
 library(sf)
 library(SSN2)
 library(SSNbler)
 library(parallel)
 library(dplyr)
+library(terra)
+library(ggplot2)
 # Step 1:
 watershed <- st_read("C:/Projects/Deleware/drbbnd/drb_bnd_polygon.shp")
 flowlines <- st_read("C:/Projects/Deleware/Deleware QGIS/Deleware Clipped.gpkg")
@@ -18,37 +21,37 @@ plot(st_geometry(flowlines), add = TRUE, col = "blue", lwd = 0.5)
 
 # Step 2: Pre-Processing, Building
 
-num.cores<- detectCores() -1
+num.cores <- max(1, detectCores() - 1)
 
 # lsn_path1 <- "LSN_Delaware"
 #flowlines <- st_cast(flowlines, "LINESTRING")
 # edges <- lines_to_lsn(
- # streams=flowlines,
- #lsn_path=lsn_path1,
-  #snap_tolerance=0.0001,
- # check_topology = TRUE,
-  #topo_tolerance = 0.01,
-  #overwrite=TRUE,
-  #verbose=TRUE,
-  #remove_ZM=FALSE,
-  #use_parallel=TRUE,
-  #no_cores=num.cores)
+# streams=flowlines,
+#lsn_path=lsn_path1,
+#snap_tolerance=0.0001,
+# check_topology = TRUE,
+#topo_tolerance = 0.01,
+#overwrite=TRUE,
+#verbose=TRUE,
+#remove_ZM=FALSE,
+#use_parallel=TRUE,
+#no_cores=num.cores)
 
 #clean_flowlines <- st_read("Deleware QGIS/cleaned_flowlines.gpkg")
 #clean_flowlines <- st_cast(clean_flowlines, "LINESTRING")
 #lsn_path2 <- "LSN_Deleware_CLEANED"
 
 #edges_clean <- lines_to_lsn(
- # streams = clean_flowlines,
- # lsn_path = lsn_path2,
-  #snap_tolerance = 0.0001,
- # check_topology = TRUE,
-  #topo_tolerance = 0.01,
- # overwrite = TRUE,
- # verbose = TRUE,
-  #remove_ZM = FALSE,
-  #use_parallel = TRUE,
-  #no_cores = num.cores
+# streams = clean_flowlines,
+# lsn_path = lsn_path2,
+#snap_tolerance = 0.0001,
+# check_topology = TRUE,
+#topo_tolerance = 0.01,
+# overwrite = TRUE,
+# verbose = TRUE,
+#remove_ZM = FALSE,
+#use_parallel = TRUE,
+#no_cores = num.cores
 
 clean_flowlines <- st_read("C:/Projects/Deleware/Deleware QGIS/cleaned_flowlines_V2.gpkg")
 clean_flowlines <- st_cast(clean_flowlines, "LINESTRING")
@@ -67,62 +70,65 @@ edges_clean <- lines_to_lsn(
   no_cores = num.cores
 )
 
+
 # Step 3: Import Data
 
-ny_dow <- read.csv(ny_path)
-ecosheds <- read.csv("EcoSHEDS_file.csv")
+#ny_dow <- read.csv(ny_path)
+#ecosheds <- read.csv("EcoSHEDS_file.csv")
 
-print("NY DOW Columns:")
-colnames(ny_dow)
-print("EcoSHEDS Columns:")
-colnames(ecosheds)
+#print("NY DOW Columns:")
+#colnames(ny_dow)
+#print("EcoSHEDS Columns:")
+#colnames(ecosheds)
 
 # Step 4: Merge
-ny_clean <- ny_dow %>%
-  dplyr::select(Site_ID = SITE_CODE,
-                Latitude = LATITUDE,
-                Longitude = LONGITUDE) %>%
-  dplyr::mutate(Source = "NY_DOW") %>%
-  dplyr::distinct(Site_ID, .keep_all = TRUE) 
+#ny_clean <- ny_dow %>%
+#  dplyr::select(Site_ID = SITE_CODE,
+#                Latitude = LATITUDE,
+#                Longitude = LONGITUDE) %>%
+#  dplyr::mutate(Source = "NY_DOW") %>%
+#  dplyr::distinct(Site_ID, .keep_all = TRUE) 
 
-eco_clean <- ecosheds %>%
-  dplyr::select(Site_ID = location_id,
-                Latitude = latitude,
-                Longitude = longitude) %>%
-  dplyr::mutate(Site_ID = as.character(Site_ID), 
-                Source = "EcoSHEDS") %>%
-  dplyr::distinct(Site_ID, .keep_all = TRUE)
+#eco_clean <- ecosheds %>%
+#  dplyr::select(Site_ID = location_id,
+#               Latitude = latitude,
+#                Longitude = longitude) %>%
+#  dplyr::mutate(Site_ID = as.character(Site_ID), 
+#                Source = "EcoSHEDS") %>%
+#  dplyr::distinct(Site_ID, .keep_all = TRUE)
 
-merged_sites <- dplyr::bind_rows(ny_clean, eco_clean) %>%
-  dplyr::mutate(Lat_round = round(Latitude, 4),
-                Lon_round = round(Longitude, 4)) %>%
-  dplyr::distinct(Lat_round, Lon_round, .keep_all = TRUE) %>%
-  dplyr::select(-Lat_round, -Lon_round) 
+#merged_sites <- dplyr::bind_rows(ny_clean, eco_clean) %>%
+#  dplyr::mutate(Lat_round = round(Latitude, 4),
+#                Lon_round = round(Longitude, 4)) %>%
+#  dplyr::distinct(Lat_round, Lon_round, .keep_all = TRUE) %>%
+# dplyr::select(-Lat_round, -Lon_round) 
 
-print(paste("Total unique monitoring sites:", nrow(merged_sites)))
+#print(paste("Total unique monitoring sites:", nrow(merged_sites)))
 
 # Step 5: Convert
 
-sites_sf <- st_as_sf(merged_sites, 
-                     coords = c("Longitude", "Latitude"), 
-                     crs = 4326) 
+#sites_sf <- st_as_sf(merged_sites, 
+#                     coords = c("Longitude", "Latitude"), 
+#                     crs = 4326) 
 
-sites_sf <- st_transform(sites_sf, st_crs(clean_flowlines))
+#sites_sf <- st_transform(sites_sf, st_crs(clean_flowlines))
 
-plot(st_geometry(clean_flowlines), col = "blue", lwd = 0.5, main = "Delaware Basin & Monitoring Sites")
-plot(st_geometry(sites_sf), add = TRUE, pch = 20, col = "red")
+#plot(st_geometry(clean_flowlines), col = "blue", lwd = 0.5, main = "Delaware Basin & Monitoring Sites")
+#plot(st_geometry(sites_sf), add = TRUE, pch = 20, col = "red")
 
 # Step 6: Snap points
-sites_snapped <- SSNbler::sites_to_lsn(
-  sites = sites_sf,
-  edges = edges_clean,
-  lsn_path = lsn_path2,
-  file_name = "obs_sites",
-  snap_tolerance = 500,
-  overwrite = TRUE
-)
+#sites_snapped <- SSNbler::sites_to_lsn(
+#  sites = sites_sf,
+#  edges = edges_clean,
+#  lsn_path = lsn_path2,
+#  file_name = "obs_sites",
+#  snap_tolerance = 500,
+# overwrite = TRUE
+#)
 
-# Step 7: Distance Upstream
+
+# Step 7: Calculate upstream distances for stream network
+
 edges_updist <- SSNbler::updist_edges(
   edges = edges_clean,
   lsn_path = lsn_path2,
@@ -130,19 +136,16 @@ edges_updist <- SSNbler::updist_edges(
 )
 
 
-sites_updist <- SSNbler::updist_sites(
-  sites = list(obs_sites = sites_snapped), 
-  edges = edges_updist, 
-  length_col = "Length",
-  lsn_path = lsn_path2
-)
 # Step 8: Calculate spatial weights
+
+# Check drainage area values
 stopifnot(
   is.numeric(edges_updist$TotDASqKM),
   all(is.finite(edges_updist$TotDASqKM)),
   all(edges_updist$TotDASqKM >= 0)
 )
 
+# Calculate additive function values for stream edges
 edges_afv <- SSNbler::afv_edges(
   edges = edges_updist,
   lsn_path = lsn_path2,
@@ -152,42 +155,34 @@ edges_afv <- SSNbler::afv_edges(
   overwrite = TRUE
 )
 
-sites_afv <- SSNbler::afv_sites(
-  sites = sites_updist,
-  edges = edges_afv,
-  afv_col = "afvArea",
-  lsn_path = lsn_path2,
-  overwrite = TRUE
-)
-
-summary(sites_afv[["obs_sites"]]$afvArea)
+# Verify calculated spatial weights
+summary(edges_afv$afvArea)
 
 stopifnot(
-  all(is.finite(edges_afv$afvArea)),
-  all(is.finite(sites_afv[["obs_sites"]]$afvArea)),
-  all(sites_afv[["obs_sites"]]$afvArea > 0)
+  all(is.finite(edges_afv$afvArea))
 )
 
 # Step 9: Assemble and import SSN
-ssn_path <- file.path(getwd(), "Delaware_Model.ssn")
+#ssn_path <- file.path(getwd(), "Delaware_Model.ssn")
 
-my_ssn <- SSNbler::ssn_assemble(
-  edges = edges_afv,
-  lsn_path = lsn_path2,
-  obs_sites = sites_afv[["obs_sites"]],
-  ssn_path = ssn_path,
-  afv_col = "afvArea",
-  import = TRUE,
-  overwrite = TRUE
-)
+#my_ssn <- SSNbler::ssn_assemble(
+#  edges = edges_afv,
+#  lsn_path = lsn_path2,
+#  obs_sites = sites_afv[["obs_sites"]],
+#  ssn_path = ssn_path,
+#  afv_col = "afvArea",
+#  import = TRUE,
+#  overwrite = TRUE
+#)
+
 
 # Step 10: Create distance matrices
-SSN2::ssn_create_distmat(
-  ssn.object = my_ssn,
-  overwrite = TRUE
-)
+#SSN2::ssn_create_distmat(
+#  ssn.object = my_ssn,
+#  overwrite = TRUE
+#)
 
-summary(my_ssn)
+#summary(my_ssn)
 # Step 11: Attach summer temperature summaries
 #site_match <- match(
   #as.character(my_ssn$obs$Site_ID),
@@ -272,6 +267,7 @@ print(c(
 
 table(eco_summer$flagged, useNA = "ifany")
 summary(eco_summer$Temperature_C)
+
 # Step 14: Check unflagged summer data
 eco_summer_clean <- eco_summer[
   tolower(trimws(eco_summer$flagged)) == "false",
@@ -511,6 +507,43 @@ eco_model_sites$Sampling_Days <- eligible_days$Sampling_Days[
 nrow(eco_model_sites)
 summary(eco_model_sites$Summer_Temp_C)
 table(eco_yearly_eligible$Year)
+# Step 20.5: Add elevation to my observed EcoSHEDS sites
+# Elevation helps explain stream temperature. It is not the value we predict.
+elevation_path <- "C:/Projects/Deleware/ElevationData/Delaware_Elevation_Clipped.tif"
+stopifnot(file.exists(elevation_path))
+
+elevation_raster <- terra::rast(elevation_path)
+stopifnot(terra::hasValues(elevation_raster))
+print(elevation_raster)
+
+# Use this same function later for the prediction points.
+get_elevation <- function(points, raster) {
+  points_dem <- sf::st_transform(
+    points,
+    terra::crs(raster)
+  )
+  
+  values <- terra::extract(
+    raster,
+    terra::vect(points_dem)
+  )
+  
+  stopifnot(nrow(values) == nrow(points))
+  points$Elevation <- as.numeric(values[[2]])
+  return(points)
+}
+
+eco_model_sites <- get_elevation(eco_model_sites, elevation_raster)
+
+print(summary(eco_model_sites$Elevation))
+print(c(
+  missing_observed_elevation = sum(is.na(eco_model_sites$Elevation)),
+  zero_observed_elevation = sum(eco_model_sites$Elevation == 0, na.rm = TRUE)
+))
+
+# All observed sites need an elevation to fit the new model.
+stopifnot(all(is.finite(eco_model_sites$Elevation)))
+          
 # Step 21: Assemble EcoSHEDS modeling network
 eco_model_path <- file.path(
   getwd(),
@@ -545,9 +578,31 @@ eco_fit <- SSN2::ssn_lm(
 )
 
 summary(eco_fit)
+
+# Step 23.5: Fit water temperature model using elevation
+eco_elevation_fit <- SSN2::ssn_lm(
+  formula = Summer_Temp_C ~ Elevation,
+  ssn.object = eco_ssn,
+  tailup_type = "exponential",
+  taildown_type = "none",
+  euclid_type = "none",
+  additive = "afvArea"
+)
+
+summary(eco_elevation_fit)
+
 # Step 24: Check prediction accuracy
 eco_cv <- SSN2::loocv(eco_fit)
 print(eco_cv)
+
+# Step 24.5: Compare prediction errors with and without elevation
+eco_elevation_cv <- SSN2::loocv(
+  eco_elevation_fit
+)
+
+print(eco_cv)
+print(eco_elevation_cv)
+
 # Step 25: Compare against a nonspatial baseline
 eco_baseline <- SSN2::ssn_lm(
   formula = Summer_Temp_C ~ 1,
@@ -580,29 +635,31 @@ print(head(
 ))
 # Step 28: Inspect the coldest station
 cold_site <- eco_daily[eco_daily$location_id == "9830", ]
-cold_site$Month <- format(cold_site$Date, "%m")
-
-print(aggregate(
-  Temperature_C ~ Year + Month,
-  data = cold_site,
-  FUN = mean
-))
-
-plot(
-  cold_site$Date,
-  cold_site$Temperature_C,
-  pch = 20,
-  cex = 0.5,
-  xlab = "Date",
-  ylab = "Daily mean temperature (C)",
-  main = "Station 9830: Summer daily temperatures"
-)
+if (nrow(cold_site) > 0) {
+  cold_site$Month <- format(cold_site$Date, "%m")
+  
+  print(aggregate(
+    Temperature_C ~ Year + Month,
+    data = cold_site,
+    FUN = mean
+  ))
+  
+  plot(
+    cold_site$Date,
+    cold_site$Temperature_C,
+    pch = 20,
+    cex = 0.5,
+    xlab = "Date",
+    ylab = "Daily mean temperature (C)",
+    main = "Station 9830: Summer daily temperatures"
+  )
+}
 # Step 29: Map observed summer temperatures
 plot(
   eco_ssn$obs["Summer_Temp_C"],
   pch = 20,
   cex = 1.2,
-  main = "Observed summer temperature averages, 2020–2025"
+  main = "Observed summer temperature averages, 2020–2026"
 )
 # Step 30: Join measurements to station coordinates
 station_coords <- unique(
@@ -667,7 +724,23 @@ eco_preds_afv <- SSNbler::afv_sites(
   lsn_path = lsn_path2,
   overwrite = TRUE
 )
+# Step 32.5: Give each prediction point its own elevation
+# These elevation values help the model predict temperatures where there are no sensors.
+eco_preds_afv[["preds"]] <- get_elevation(
+  eco_preds_afv[["preds"]],
+  elevation_raster
+)
 
+print(summary(eco_preds_afv[["preds"]]$Elevation))
+print(c(
+  prediction_points = nrow(eco_preds_afv[["preds"]]),
+  missing_prediction_elevation = sum(is.na(eco_preds_afv[["preds"]]$Elevation)),
+  zero_prediction_elevation = sum(eco_preds_afv[["preds"]]$Elevation == 0, na.rm = TRUE),
+  zero_prediction_afv = sum(eco_preds_afv[["preds"]]$afvArea == 0, na.rm = TRUE)
+))
+
+# If there are missing values, fix the DEM coverage before predicting.
+stopifnot(all(is.finite(eco_preds_afv[["preds"]]$Elevation)))
 
 # Step 33: Assemble Spatial Stream Net w/ pred points
 eco_pred_ssn <- SSNbler::ssn_assemble(
@@ -690,6 +763,16 @@ SSN2::ssn_create_distmat(
   overwrite = TRUE
 )
 
+# Fit the final water temperature model using elevation and stream-network relationships
+eco_pred_fit <- SSN2::ssn_lm(
+  formula = Summer_Temp_C ~ Elevation,
+  ssn.object = eco_pred_ssn,
+  tailup_type = "exponential",
+  taildown_type = "none",
+  euclid_type = "none",
+  additive = "afvArea"
+)
+
 # Step 34: Temp Predictions
 eco_predictions<-SSN2::augment(
   eco_pred_fit,
@@ -707,14 +790,11 @@ temperature_plot<-ggplot()+
   ) +
   scale_color_viridis_c(option = "H") +
   labs(
-    title = "Predicted Summer Stream Temperatures",
+    title = "Delaware River Watershed: Predicted Summer Stream Temperatures",
+    subtitle = "Predictions using EcoSHEDS, elevation, and stream connectivity",
     color = "Temperature (°C)"
   ) +
   theme_bw()
 
 print(temperature_plot)
-sf::st_write(
-  eco_predictions,
-  "C:/Projects/Deleware/EcoSHEDS_Predicted_Temperatures.gpkg",
-  delete_dsn = TRUE
-)
+print(summary(eco_predictions$.fitted))
