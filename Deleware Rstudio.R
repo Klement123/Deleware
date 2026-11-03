@@ -507,6 +507,85 @@ eco_model_sites$Sampling_Days <- eligible_days$Sampling_Days[
 nrow(eco_model_sites)
 summary(eco_model_sites$Summer_Temp_C)
 table(eco_yearly_eligible$Year)
+# Step 20.25: Replaces Adding the tiles through QGIS
+elevation_dir <- "C:/Projects/Deleware/ElevationData"
+stopifnot(dir.exists(elevation_dir))
+
+usgs_tiles <- sort(list.files(
+  elevation_dir,
+  pattern = "^USGS_.*\\.tif$",
+  full.names = TRUE,
+  ignore.case = TRUE
+))
+
+print(basename(usgs_tiles))
+cat("USGS elevation tiles found:", length(usgs_tiles), "\n")
+if (length(usgs_tiles) != 11L) {
+  stop("Expected 11 USGS GeoTIFF tiles in ElevationData; check the filenames and folder.")
+}
+first_tile <- terra::rast(usgs_tiles[1])
+stopifnot(terra::hasValues(first_tile))
+
+for (tile_file in usgs_tiles[-1]) {
+  tile <- terra::rast(tile_file)
+  if (!terra::hasValues(tile)) stop("Tile has no values: ", tile_file)
+  if (!terra::same.crs(first_tile, tile)) {
+    stop("USGS tiles have different coordinate reference systems: ", tile_file)
+  }
+  if (!isTRUE(all.equal(terra::res(first_tile), terra::res(tile),
+                        tolerance = 1e-6))) {
+    stop("USGS tiles have different pixel resolutions: ", tile_file)
+  }
+}
+
+# VRT
+vrt_path <- file.path(elevation_dir, "Delaware_Elevation_Mosaic.vrt")
+elevation_vrt <- terra::vrt(
+  usgs_tiles,
+  filename = vrt_path,
+  overwrite = TRUE
+)
+stopifnot(terra::hasValues(elevation_vrt))
+stopifnot(length(terra::vrt_tiles(elevation_vrt)) == length(usgs_tiles))
+
+watershed_dem <- terra::project(
+  terra::vect(watershed),
+  terra::crs(elevation_vrt)
+)
+
+elevation_path <- file.path(
+  elevation_dir,
+  "Delaware_Elevation_Clipped_R.tif"
+)
+
+"Everytime you build this should be true, when its false,
+it repurposes the existing raster"
+rebuild_elevation <- TRUE
+
+if (!file.exists(elevation_path) || rebuild_elevation) {
+  cat("Building the watershed elevation raster from original USGS tiles...\n")
+  elevation_raster <- terra::crop(
+    elevation_vrt,
+    watershed_dem,
+    mask = TRUE,
+    filename = elevation_path,
+    overwrite = TRUE,
+    wopt = list(
+      datatype = "FLT4S",
+      NAflag = -9999,
+      gdal = c("COMPRESS=DEFLATE", "PREDICTOR=3", "TILED=YES",
+               "BIGTIFF=IF_SAFER")
+    )
+  )
+} else {
+  cat("Using existing R-generated clipped DEM:\n", elevation_path, "\n")
+  elevation_raster <- terra::rast(elevation_path)
+}
+
+stopifnot(terra::hasValues(elevation_raster))
+print(elevation_raster)
+cat("Clipped elevation file:", elevation_path, "\n")
+
 # Step 20.5: Add elevation to my observed EcoSHEDS sites
 # Elevation helps explain stream temperature. It is not the value we predict.
 elevation_path <- "C:/Projects/Deleware/ElevationData/Delaware_Elevation_Clipped.tif"
@@ -798,3 +877,12 @@ temperature_plot<-ggplot()+
 
 print(temperature_plot)
 print(summary(eco_predictions$.fitted))
+print(temperature_plot)
+print(summary(eco_predictions$.fitted))
+print(paste("Total temperature predictions:", nrow(eco_predictions)))
+sf::st_write(
+  eco_predictions,
+  "C:/Projects/Deleware/EcoSHEDS_Elevation_Predictions.gpkg",
+  delete_dsn = TRUE
+)
+print("Saved the predicted temperatures to EcoSHEDS_Elevation_Predictions.gpkg")
